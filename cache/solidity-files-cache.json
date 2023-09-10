@@ -1,0 +1,1303 @@
+{
+  "_format": "ethers-rs-sol-cache-3",
+  "paths": {
+    "artifacts": "out",
+    "build_infos": "out/build-info",
+    "sources": "src",
+    "tests": "test",
+    "scripts": "script",
+    "libraries": [
+      "lib"
+    ]
+  },
+  "files": {
+    "script/Counter.s.sol": {
+      "lastModificationDate": 1694300182022,
+      "contentHash": "0af071bd4023dc7988ab8a0e811e7c1d",
+      "sourceName": "script/Counter.s.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": null,
+      "artifacts": {
+        "Counter.s": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "Counter.s.sol/Counter.s.json"
+        }
+      }
+    },
+    "src/BaseJumpRateModelV2.sol": {
+      "lastModificationDate": 1694304346936,
+      "contentHash": "39ca1a80ae4180c738d758bbfcea63ae",
+      "sourceName": "src/BaseJumpRateModelV2.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/SafeMath.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "BaseJumpRateModelV2": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "BaseJumpRateModelV2.sol/BaseJumpRateModelV2.json"
+        }
+      }
+    },
+    "src/CErc20.sol": {
+      "lastModificationDate": 1694304354971,
+      "contentHash": "e6b3701e4aa9a2b91d27de38b74ea5e3",
+      "sourceName": "src/CErc20.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/CToken.sol",
+        "src/CTokenInterfaces.sol",
+        "src/CarefulMath.sol",
+        "src/ComptrollerInterface.sol",
+        "src/EIP20Interface.sol",
+        "src/EIP20NonStandardInterface.sol",
+        "src/ErrorReporter.sol",
+        "src/Exponential.sol",
+        "src/ExponentialNoError.sol",
+        "src/InterestRateModel.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "CErc20": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CErc20.sol/CErc20.json"
+        }
+      }
+    },
+    "src/CErc20Immutable.sol": {
+      "lastModificationDate": 1694304877585,
+      "contentHash": "2e65322360f8240d2b95aa2009bb6bd8",
+      "sourceName": "src/CErc20Immutable.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/CErc20.sol",
+        "src/CToken.sol",
+        "src/CTokenInterfaces.sol",
+        "src/CarefulMath.sol",
+        "src/ComptrollerInterface.sol",
+        "src/EIP20Interface.sol",
+        "src/EIP20NonStandardInterface.sol",
+        "src/ErrorReporter.sol",
+        "src/Exponential.sol",
+        "src/ExponentialNoError.sol",
+        "src/InterestRateModel.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "CErc20Immutable": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CErc20Immutable.sol/CErc20Immutable.json"
+        }
+      }
+    },
+    "src/CEther.sol": {
+      "lastModificationDate": 1694304404741,
+      "contentHash": "d3681ed51d08f8f9584c1048524c6fb6",
+      "sourceName": "src/CEther.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/CToken.sol",
+        "src/CTokenInterfaces.sol",
+        "src/CarefulMath.sol",
+        "src/ComptrollerInterface.sol",
+        "src/EIP20Interface.sol",
+        "src/EIP20NonStandardInterface.sol",
+        "src/ErrorReporter.sol",
+        "src/Exponential.sol",
+        "src/ExponentialNoError.sol",
+        "src/InterestRateModel.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "CEther": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CEther.sol/CEther.json"
+        }
+      }
+    },
+    "src/CToken.sol": {
+      "lastModificationDate": 1694304568897,
+      "contentHash": "745006df24da2b9568fec6d82e735d9a",
+      "sourceName": "src/CToken.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/CTokenInterfaces.sol",
+        "src/CarefulMath.sol",
+        "src/ComptrollerInterface.sol",
+        "src/EIP20Interface.sol",
+        "src/EIP20NonStandardInterface.sol",
+        "src/ErrorReporter.sol",
+        "src/Exponential.sol",
+        "src/ExponentialNoError.sol",
+        "src/InterestRateModel.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "CToken": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CToken.sol/CToken.json"
+        }
+      }
+    },
+    "src/CTokenInterfaces.sol": {
+      "lastModificationDate": 1694305282505,
+      "contentHash": "644a449edc3b101215132de975540652",
+      "sourceName": "src/CTokenInterfaces.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/ComptrollerInterface.sol",
+        "src/InterestRateModel.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "CDelegateInterface": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CDelegateInterface.json"
+        },
+        "CDelegationStorage": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CDelegationStorage.json"
+        },
+        "CDelegatorInterface": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CDelegatorInterface.json"
+        },
+        "CErc20Interface": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CErc20Interface.json"
+        },
+        "CErc20Storage": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CErc20Storage.json"
+        },
+        "CTokenInterface": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CTokenInterface.json"
+        },
+        "CTokenStorage": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CTokenStorage.json"
+        }
+      }
+    },
+    "src/CarefulMath.sol": {
+      "lastModificationDate": 1694305068286,
+      "contentHash": "b1f19e9f4ff15ac6673cd0d4ce242b01",
+      "sourceName": "src/CarefulMath.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "CarefulMath": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CarefulMath.sol/CarefulMath.json"
+        }
+      }
+    },
+    "src/ComptrollerG6.sol": {
+      "lastModificationDate": 1694304502560,
+      "contentHash": "71672484e3b9e66e26cdd4d5ced37b2e",
+      "sourceName": "src/ComptrollerG6.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/CToken.sol",
+        "src/CTokenInterfaces.sol",
+        "src/CarefulMath.sol",
+        "src/ComptrollerInterface.sol",
+        "src/ComptrollerStorage.sol",
+        "src/EIP20Interface.sol",
+        "src/EIP20NonStandardInterface.sol",
+        "src/ErrorReporter.sol",
+        "src/Exponential.sol",
+        "src/ExponentialNoError.sol",
+        "src/Governance/Comp.sol",
+        "src/InterestRateModel.sol",
+        "src/PriceOracle.sol",
+        "src/Unitroller.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "ComptrollerG6": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerG6.sol/ComptrollerG6.json"
+        }
+      }
+    },
+    "src/ComptrollerInterface.sol": {
+      "lastModificationDate": 1694304489701,
+      "contentHash": "8511d1e04b509835e2e0ab0f63816a5b",
+      "sourceName": "src/ComptrollerInterface.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "ComptrollerInterface": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerInterface.sol/ComptrollerInterface.json"
+        }
+      }
+    },
+    "src/ComptrollerStorage.sol": {
+      "lastModificationDate": 1694304538223,
+      "contentHash": "6c303bb5fa808191a00553e6d04e8884",
+      "sourceName": "src/ComptrollerStorage.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/CToken.sol",
+        "src/CTokenInterfaces.sol",
+        "src/CarefulMath.sol",
+        "src/ComptrollerInterface.sol",
+        "src/EIP20Interface.sol",
+        "src/EIP20NonStandardInterface.sol",
+        "src/ErrorReporter.sol",
+        "src/Exponential.sol",
+        "src/ExponentialNoError.sol",
+        "src/InterestRateModel.sol",
+        "src/PriceOracle.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "ComptrollerV1Storage": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerStorage.sol/ComptrollerV1Storage.json"
+        },
+        "ComptrollerV2Storage": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerStorage.sol/ComptrollerV2Storage.json"
+        },
+        "ComptrollerV3Storage": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerStorage.sol/ComptrollerV3Storage.json"
+        },
+        "ComptrollerV4Storage": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerStorage.sol/ComptrollerV4Storage.json"
+        },
+        "ComptrollerV5Storage": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerStorage.sol/ComptrollerV5Storage.json"
+        },
+        "UnitrollerAdminStorage": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerStorage.sol/UnitrollerAdminStorage.json"
+        }
+      }
+    },
+    "src/EIP20Interface.sol": {
+      "lastModificationDate": 1694304683553,
+      "contentHash": "4e3ee4a4a002a57d012cc415a473648e",
+      "sourceName": "src/EIP20Interface.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "EIP20Interface": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "EIP20Interface.sol/EIP20Interface.json"
+        }
+      }
+    },
+    "src/EIP20NonStandardInterface.sol": {
+      "lastModificationDate": 1694304700872,
+      "contentHash": "2b5e5a29a4dcf04c50396302e6bbaec3",
+      "sourceName": "src/EIP20NonStandardInterface.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "EIP20NonStandardInterface": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "EIP20NonStandardInterface.sol/EIP20NonStandardInterface.json"
+        }
+      }
+    },
+    "src/ErrorReporter.sol": {
+      "lastModificationDate": 1694304707723,
+      "contentHash": "4360952ef4d39b9c916546d941dca6d1",
+      "sourceName": "src/ErrorReporter.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "ComptrollerErrorReporter": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "ErrorReporter.sol/ComptrollerErrorReporter.json"
+        },
+        "TokenErrorReporter": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "ErrorReporter.sol/TokenErrorReporter.json"
+        }
+      }
+    },
+    "src/Exponential.sol": {
+      "lastModificationDate": 1694305029764,
+      "contentHash": "cea0129ddeb7f4a366f38088bb09f0eb",
+      "sourceName": "src/Exponential.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/CarefulMath.sol",
+        "src/ExponentialNoError.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "Exponential": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "Exponential.sol/Exponential.json"
+        }
+      }
+    },
+    "src/ExponentialNoError.sol": {
+      "lastModificationDate": 1694304721648,
+      "contentHash": "4a7882ab111aa97010cf03aaf6963b57",
+      "sourceName": "src/ExponentialNoError.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "ExponentialNoError": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "ExponentialNoError.sol/ExponentialNoError.json"
+        }
+      }
+    },
+    "src/Governance/Comp.sol": {
+      "lastModificationDate": 1694302661643,
+      "contentHash": "4ee834e15786d6401b50eb8e7f96ee61",
+      "sourceName": "src/Governance/Comp.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "Comp": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "Comp.sol/Comp.json"
+        }
+      }
+    },
+    "src/Governance/GovernorAlpha.sol": {
+      "lastModificationDate": 1694302700121,
+      "contentHash": "857f094609e8af0a6d01cc79c947329f",
+      "sourceName": "src/Governance/GovernorAlpha.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "CompInterface": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "GovernorAlpha.sol/CompInterface.json"
+        },
+        "GovernorAlpha": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "GovernorAlpha.sol/GovernorAlpha.json"
+        },
+        "TimelockInterface": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "GovernorAlpha.sol/TimelockInterface.json"
+        }
+      }
+    },
+    "src/InterestRateModel.sol": {
+      "lastModificationDate": 1694304758056,
+      "contentHash": "a3cf7e298193963b74f1376975c54a17",
+      "sourceName": "src/InterestRateModel.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "InterestRateModel": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "InterestRateModel.sol/InterestRateModel.json"
+        }
+      }
+    },
+    "src/JumpRateModelV2.sol": {
+      "lastModificationDate": 1694304772454,
+      "contentHash": "00ff2d3aae3f045c7c791a63157c242d",
+      "sourceName": "src/JumpRateModelV2.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/BaseJumpRateModelV2.sol",
+        "src/InterestRateModel.sol",
+        "src/SafeMath.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "JumpRateModelV2": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "JumpRateModelV2.sol/JumpRateModelV2.json"
+        }
+      }
+    },
+    "src/Lens/CompoundLens.sol": {
+      "lastModificationDate": 1694304306349,
+      "contentHash": "b77a1c89c4b272358db1496fdd546023",
+      "sourceName": "src/Lens/CompoundLens.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/CErc20.sol",
+        "src/CToken.sol",
+        "src/CTokenInterfaces.sol",
+        "src/CarefulMath.sol",
+        "src/ComptrollerInterface.sol",
+        "src/EIP20Interface.sol",
+        "src/EIP20NonStandardInterface.sol",
+        "src/ErrorReporter.sol",
+        "src/Exponential.sol",
+        "src/ExponentialNoError.sol",
+        "src/Governance/Comp.sol",
+        "src/Governance/GovernorAlpha.sol",
+        "src/InterestRateModel.sol",
+        "src/PriceOracle.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "CompoundLens": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CompoundLens.sol/CompoundLens.json"
+        },
+        "ComptrollerLensInterface": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "CompoundLens.sol/ComptrollerLensInterface.json"
+        }
+      }
+    },
+    "src/Maximillion.sol": {
+      "lastModificationDate": 1694304781035,
+      "contentHash": "a494167b34ec6077a5b1890d5988b3c2",
+      "sourceName": "src/Maximillion.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/CEther.sol",
+        "src/CToken.sol",
+        "src/CTokenInterfaces.sol",
+        "src/CarefulMath.sol",
+        "src/ComptrollerInterface.sol",
+        "src/EIP20Interface.sol",
+        "src/EIP20NonStandardInterface.sol",
+        "src/ErrorReporter.sol",
+        "src/Exponential.sol",
+        "src/ExponentialNoError.sol",
+        "src/InterestRateModel.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "Maximillion": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "Maximillion.sol/Maximillion.json"
+        }
+      }
+    },
+    "src/PriceOracle.sol": {
+      "lastModificationDate": 1694304787889,
+      "contentHash": "1719760461cc8f00a2a63ff0f7e255ec",
+      "sourceName": "src/PriceOracle.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/CToken.sol",
+        "src/CTokenInterfaces.sol",
+        "src/CarefulMath.sol",
+        "src/ComptrollerInterface.sol",
+        "src/EIP20Interface.sol",
+        "src/EIP20NonStandardInterface.sol",
+        "src/ErrorReporter.sol",
+        "src/Exponential.sol",
+        "src/ExponentialNoError.sol",
+        "src/InterestRateModel.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "PriceOracle": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "PriceOracle.sol/PriceOracle.json"
+        }
+      }
+    },
+    "src/SafeMath.sol": {
+      "lastModificationDate": 1694304796475,
+      "contentHash": "cea035c339007f3f8e5c97f91976a6ee",
+      "sourceName": "src/SafeMath.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "SafeMath": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "SafeMath.sol/SafeMath.json"
+        }
+      }
+    },
+    "src/Timelock.sol": {
+      "lastModificationDate": 1694304947719,
+      "contentHash": "32f77c167fae6e68ce3869f94a20775f",
+      "sourceName": "src/Timelock.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/SafeMath.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "Timelock": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "Timelock.sol/Timelock.json"
+        }
+      }
+    },
+    "src/Unitroller.sol": {
+      "lastModificationDate": 1694304842448,
+      "contentHash": "927fd2ede91d7cef2f1c23d650bada64",
+      "sourceName": "src/Unitroller.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "src/CToken.sol",
+        "src/CTokenInterfaces.sol",
+        "src/CarefulMath.sol",
+        "src/ComptrollerInterface.sol",
+        "src/ComptrollerStorage.sol",
+        "src/EIP20Interface.sol",
+        "src/EIP20NonStandardInterface.sol",
+        "src/ErrorReporter.sol",
+        "src/Exponential.sol",
+        "src/ExponentialNoError.sol",
+        "src/InterestRateModel.sol",
+        "src/PriceOracle.sol"
+      ],
+      "versionRequirement": "^0.5.16",
+      "artifacts": {
+        "Unitroller": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "Unitroller.sol/Unitroller.json"
+        }
+      }
+    },
+    "test/Counter.t.sol": {
+      "lastModificationDate": 1694300201993,
+      "contentHash": "47d6dab9482712517b6d18c502b8200d",
+      "sourceName": "test/Counter.t.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": null,
+      "artifacts": {
+        "Counter.t": {
+          "0.5.16+commit.9c3226ce.Linux.gcc": "Counter.t.sol/Counter.t.json"
+        }
+      }
+    }
+  }
+}
