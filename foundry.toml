@@ -2,5 +2,10 @@
 src = "src"
 out = "out"
 libs = ["lib"]
-solc = "0.5.16"
-# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
+# solc = "0.5.16"
+
+[rpc_endpoints]
+goerli = "${GOERLI_BASE_RPC_URL}"
+
+[etherscan]
+goerli = { key = "${ETHERSCAN_API_KEY}" }

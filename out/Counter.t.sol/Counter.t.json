@@ -10,11 +10,12 @@
   },
   "ast": {
     "absolutePath": "test/Counter.t.sol",
-    "id": 15336,
+    "id": 39311,
     "exportedSymbols": {},
     "nodeType": "SourceUnit",
-    "src": "618:0:26",
-    "nodes": []
+    "src": "618:0:15",
+    "nodes": [],
+    "license": "UNLICENSED"
   },
-  "id": 26
+  "id": 15
 }
