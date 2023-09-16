@@ -246,13 +246,13 @@
     }
   ],
   "bytecode": {
-    "object": "0x608060405234801561001057600080fd5b50600080546001600160a01b031916331790556105e4806100326000396000f3fe60806040526004361061007b5760003560e01c8063dcfbc0c71161004e578063dcfbc0c71461019e578063e992a041146101b3578063e9c714f2146101e6578063f851a440146101fb5761007b565b806326782247146100fe578063b71d1a0c1461012f578063bb82aa5e14610174578063c1e8033414610189575b6002546040516000916001600160a01b031690829036908083838082843760405192019450600093509091505080830381855af49150503d80600081146100de576040519150601f19603f3d011682016040523d82523d6000602084013e6100e3565b606091505b505090506040513d6000823e8180156100fa573d82f35b3d82fd5b34801561010a57600080fd5b50610113610210565b604080516001600160a01b039092168252519081900360200190f35b34801561013b57600080fd5b506101626004803603602081101561015257600080fd5b50356001600160a01b031661021f565b60408051918252519081900360200190f35b34801561018057600080fd5b506101136102b0565b34801561019557600080fd5b506101626102bf565b3480156101aa57600080fd5b506101136103ba565b3480156101bf57600080fd5b50610162600480360360208110156101d657600080fd5b50356001600160a01b03166103c9565b3480156101f257600080fd5b5061016261044d565b34801561020757600080fd5b50610113610533565b6001546001600160a01b031681565b600080546001600160a01b031633146102455761023e6001600e610542565b90506102ab565b600180546001600160a01b038481166001600160a01b0319831681179093556040805191909216808252602082019390935281517fca4f2f25d0898edd99413412fb94012f9e54ec8142f9b093e7720646a95b16a9929181900390910190a160005b9150505b919050565b6002546001600160a01b031681565b6003546000906001600160a01b0316331415806102e557506003546001600160a01b0316155b156102fc576102f5600180610542565b90506103b7565b60028054600380546001600160a01b038082166001600160a01b031980861682179687905590921690925560408051938316808552949092166020840152815190927fd604de94d45953f9138079ec1b82d533cb2160c906d1076d1f7ed54befbca97a92908290030190a1600354604080516001600160a01b038085168252909216602083015280517fe945ccee5d701fc83f9b8aa8ca94ea4219ec1fcbd4f4cab4f0ea57c5c3e1d8159281900390910190a160005b925050505b90565b6003546001600160a01b031681565b600080546001600160a01b031633146103e85761023e6001600f610542565b600380546001600160a01b038481166001600160a01b0319831617928390556040805192821680845293909116602083015280517fe945ccee5d701fc83f9b8aa8ca94ea4219ec1fcbd4f4cab4f0ea57c5c3e1d8159281900390910190a160006102a7565b6001546000906001600160a01b031633141580610468575033155b15610479576102f560016000610542565b60008054600180546001600160a01b038082166001600160a01b031980861682179687905590921690925560408051938316808552949092166020840152815190927ff9ffabca9c8276e99321725bcb43fb076a6c66a54b7f21c4e8146d8519b417dc92908290030190a1600154604080516001600160a01b038085168252909216602083015280517fca4f2f25d0898edd99413412fb94012f9e54ec8142f9b093e7720646a95b16a99281900390910190a160006103b2565b6000546001600160a01b031681565b60007f45b96fe442630264581b197e84bbada861235052c5a1aadfff9ea4e40a969aa083601181111561057157fe5b83601381111561057d57fe5b604080519283526020830191909152600082820152519081900360600190a18260118111156105a857fe5b939250505056fea265627a7a72315820148c7b8d942be4d50d2b43b9aafcc992c4c0ebb50bef8f058091c1be8cf62a7764736f6c63430005100032",
+    "object": "0x608060405234801561001057600080fd5b50600080546001600160a01b031916331790556105e4806100326000396000f3fe60806040526004361061007b5760003560e01c8063dcfbc0c71161004e578063dcfbc0c71461019e578063e992a041146101b3578063e9c714f2146101e6578063f851a440146101fb5761007b565b806326782247146100fe578063b71d1a0c1461012f578063bb82aa5e14610174578063c1e8033414610189575b6002546040516000916001600160a01b031690829036908083838082843760405192019450600093509091505080830381855af49150503d80600081146100de576040519150601f19603f3d011682016040523d82523d6000602084013e6100e3565b606091505b505090506040513d6000823e8180156100fa573d82f35b3d82fd5b34801561010a57600080fd5b50610113610210565b604080516001600160a01b039092168252519081900360200190f35b34801561013b57600080fd5b506101626004803603602081101561015257600080fd5b50356001600160a01b031661021f565b60408051918252519081900360200190f35b34801561018057600080fd5b506101136102b0565b34801561019557600080fd5b506101626102bf565b3480156101aa57600080fd5b506101136103ba565b3480156101bf57600080fd5b50610162600480360360208110156101d657600080fd5b50356001600160a01b03166103c9565b3480156101f257600080fd5b5061016261044d565b34801561020757600080fd5b50610113610533565b6001546001600160a01b031681565b600080546001600160a01b031633146102455761023e6001600e610542565b90506102ab565b600180546001600160a01b038481166001600160a01b0319831681179093556040805191909216808252602082019390935281517fca4f2f25d0898edd99413412fb94012f9e54ec8142f9b093e7720646a95b16a9929181900390910190a160005b9150505b919050565b6002546001600160a01b031681565b6003546000906001600160a01b0316331415806102e557506003546001600160a01b0316155b156102fc576102f5600180610542565b90506103b7565b60028054600380546001600160a01b038082166001600160a01b031980861682179687905590921690925560408051938316808552949092166020840152815190927fd604de94d45953f9138079ec1b82d533cb2160c906d1076d1f7ed54befbca97a92908290030190a1600354604080516001600160a01b038085168252909216602083015280517fe945ccee5d701fc83f9b8aa8ca94ea4219ec1fcbd4f4cab4f0ea57c5c3e1d8159281900390910190a160005b925050505b90565b6003546001600160a01b031681565b600080546001600160a01b031633146103e85761023e6001600f610542565b600380546001600160a01b038481166001600160a01b0319831617928390556040805192821680845293909116602083015280517fe945ccee5d701fc83f9b8aa8ca94ea4219ec1fcbd4f4cab4f0ea57c5c3e1d8159281900390910190a160006102a7565b6001546000906001600160a01b031633141580610468575033155b15610479576102f560016000610542565b60008054600180546001600160a01b038082166001600160a01b031980861682179687905590921690925560408051938316808552949092166020840152815190927ff9ffabca9c8276e99321725bcb43fb076a6c66a54b7f21c4e8146d8519b417dc92908290030190a1600154604080516001600160a01b038085168252909216602083015280517fca4f2f25d0898edd99413412fb94012f9e54ec8142f9b093e7720646a95b16a99281900390910190a160006103b2565b6000546001600160a01b031681565b60007f45b96fe442630264581b197e84bbada861235052c5a1aadfff9ea4e40a969aa083601181111561057157fe5b83601381111561057d57fe5b604080519283526020830191909152600082820152519081900360600190a18260118111156105a857fe5b939250505056fea265627a7a72315820a61a6bab8ac008b188197c2df5cbea4255cacf8fde0a0bdb695eb5abf5e97d4a64736f6c63430005110032",
     "sourceMap": "310:5343:25:-;;;1116:87;8:9:-1;5:2;;;30:1;27;20:12;5:2;-1:-1;1178:5:25;:18;;-1:-1:-1;;;;;;1178:18:25;1186:10;1178:18;;;310:5343;;;;;;",
     "linkReferences": {}
   },
   "deployedBytecode": {
-    "object": "0x60806040526004361061007b5760003560e01c8063dcfbc0c71161004e578063dcfbc0c71461019e578063e992a041146101b3578063e9c714f2146101e6578063f851a440146101fb5761007b565b806326782247146100fe578063b71d1a0c1461012f578063bb82aa5e14610174578063c1e8033414610189575b6002546040516000916001600160a01b031690829036908083838082843760405192019450600093509091505080830381855af49150503d80600081146100de576040519150601f19603f3d011682016040523d82523d6000602084013e6100e3565b606091505b505090506040513d6000823e8180156100fa573d82f35b3d82fd5b34801561010a57600080fd5b50610113610210565b604080516001600160a01b039092168252519081900360200190f35b34801561013b57600080fd5b506101626004803603602081101561015257600080fd5b50356001600160a01b031661021f565b60408051918252519081900360200190f35b34801561018057600080fd5b506101136102b0565b34801561019557600080fd5b506101626102bf565b3480156101aa57600080fd5b506101136103ba565b3480156101bf57600080fd5b50610162600480360360208110156101d657600080fd5b50356001600160a01b03166103c9565b3480156101f257600080fd5b5061016261044d565b34801561020757600080fd5b50610113610533565b6001546001600160a01b031681565b600080546001600160a01b031633146102455761023e6001600e610542565b90506102ab565b600180546001600160a01b038481166001600160a01b0319831681179093556040805191909216808252602082019390935281517fca4f2f25d0898edd99413412fb94012f9e54ec8142f9b093e7720646a95b16a9929181900390910190a160005b9150505b919050565b6002546001600160a01b031681565b6003546000906001600160a01b0316331415806102e557506003546001600160a01b0316155b156102fc576102f5600180610542565b90506103b7565b60028054600380546001600160a01b038082166001600160a01b031980861682179687905590921690925560408051938316808552949092166020840152815190927fd604de94d45953f9138079ec1b82d533cb2160c906d1076d1f7ed54befbca97a92908290030190a1600354604080516001600160a01b038085168252909216602083015280517fe945ccee5d701fc83f9b8aa8ca94ea4219ec1fcbd4f4cab4f0ea57c5c3e1d8159281900390910190a160005b925050505b90565b6003546001600160a01b031681565b600080546001600160a01b031633146103e85761023e6001600f610542565b600380546001600160a01b038481166001600160a01b0319831617928390556040805192821680845293909116602083015280517fe945ccee5d701fc83f9b8aa8ca94ea4219ec1fcbd4f4cab4f0ea57c5c3e1d8159281900390910190a160006102a7565b6001546000906001600160a01b031633141580610468575033155b15610479576102f560016000610542565b60008054600180546001600160a01b038082166001600160a01b031980861682179687905590921690925560408051938316808552949092166020840152815190927ff9ffabca9c8276e99321725bcb43fb076a6c66a54b7f21c4e8146d8519b417dc92908290030190a1600154604080516001600160a01b038085168252909216602083015280517fca4f2f25d0898edd99413412fb94012f9e54ec8142f9b093e7720646a95b16a99281900390910190a160006103b2565b6000546001600160a01b031681565b60007f45b96fe442630264581b197e84bbada861235052c5a1aadfff9ea4e40a969aa083601181111561057157fe5b83601381111561057d57fe5b604080519283526020830191909152600082820152519081900360600190a18260118111156105a857fe5b939250505056fea265627a7a72315820148c7b8d942be4d50d2b43b9aafcc992c4c0ebb50bef8f058091c1be8cf62a7764736f6c63430005100032",
-    "sourceMap": "310:5343:25:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;5303:25;;:48;;5285:12;;-1:-1:-1;;;;;5303:25:25;;5285:12;;5342:8;;5303:48;5285:12;5342:8;;5285:12;5303:48;1:33:-1;5303:48:25;;45:16:-1;;;-1:-1;5303:48:25;;-1:-1:-1;5303:48:25;;-1:-1:-1;;5303:48:25;;;;;;;;;;;14:1:-1;21;16:31;;;;75:4;69:11;64:16;;144:4;140:9;133:4;115:16;111:27;107:43;104:1;100:51;94:4;87:65;169:16;166:1;159:27;225:16;222:1;215:4;212:1;208:12;193:49;7:242;;16:31;36:4;31:9;;7:242;;5284:67:25;;;5413:4;5407:11;5465:14;5462:1;5448:12;5433:47;5503:7;5525:47;;;;5618:14;5604:12;5597:36;5525:47;5555:14;5541:12;5534:36;273:27:10;;8:9:-1;5:2;;;30:1;27;20:12;5:2;273:27:10;;;:::i;:::-;;;;-1:-1:-1;;;;;273:27:10;;;;;;;;;;;;;;3377:621:25;;8:9:-1;5:2;;;30:1;27;20:12;5:2;3377:621:25;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;-1:-1;3377:621:25;-1:-1:-1;;;;;3377:621:25;;:::i;:::-;;;;;;;;;;;;;;;;364:40:10;;8:9:-1;5:2;;;30:1;27;20:12;5:2;364:40:10;;;:::i;2058:912:25:-;;8:9:-1;5:2;;;30:1;27;20:12;5:2;2058:912:25;;;:::i;469:47:10:-;;8:9:-1;5:2;;;30:1;27;20:12;5:2;469:47:10;;;:::i;1239:527:25:-;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1239:527:25;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;-1:-1;1239:527:25;-1:-1:-1;;;;;1239:527:25;;:::i;4269:720::-;;8:9:-1;5:2;;;30:1;27;20:12;5:2;4269:720:25;;;:::i;177:20:10:-;;8:9:-1;5:2;;;30:1;27;20:12;5:2;177:20:10;;;:::i;273:27::-;;;-1:-1:-1;;;;;273:27:10;;:::o;3377:621:25:-;3444:4;3510:5;;-1:-1:-1;;;;;3510:5:25;3496:10;:19;3492:124;;3538:67;3543:18;3563:41;3538:4;:67::i;:::-;3531:74;;;;3492:124;3712:12;;;-1:-1:-1;;;;;3792:30:25;;;-1:-1:-1;;;;;;3792:30:25;;;;;;;3904:49;;;3712:12;;;;3904:49;;;;;;;;;;;;;;;;;;;;;;;3976:14;3971:20;3964:27;;;3377:621;;;;:::o;364:40:10:-;;;-1:-1:-1;;;;;364:40:10;;:::o;2058:912:25:-;2231:32;;2107:4;;-1:-1:-1;;;;;2231:32:25;2217:10;:46;;;:96;;-1:-1:-1;2267:32:25;;-1:-1:-1;;;;;2267:32:25;:46;2217:96;2213:215;;;2336:81;2341:18;2361:55;2336:4;:81::i;:::-;2329:88;;;;2213:215;2518:25;;;2588:32;;;-1:-1:-1;;;;;2588:32:25;;;-1:-1:-1;;;;;;2631:60:25;;;;;;;;;2702:45;;;;;;2763:63;;;2518:25;;;2763:63;;;2800:25;;;;2763:63;;;;;;2588:32;;2763:63;;;;;;;;;2892:32;;2841:84;;;-1:-1:-1;;;;;2841:84:25;;;;;2892:32;;;2841:84;;;;;;;;;;;;;;;;2948:14;2943:20;2936:27;;;;2058:912;;:::o;469:47:10:-;;;-1:-1:-1;;;;;469:47:10;;:::o;1239:527:25:-;1324:4;1359:5;;-1:-1:-1;;;;;1359:5:25;1345:10;:19;1341:133;;1387:76;1392:18;1412:50;1387:4;:76::i;1341:133::-;1519:32;;;-1:-1:-1;;;;;1562:59:25;;;-1:-1:-1;;;;;;1562:59:25;;;;;;;1637:84;;;1519:32;;;1637:84;;;1688:32;;;;1637:84;;;;;;;;;;;;;;;;1744:14;1739:20;;4269:720;4415:12;;4309:4;;-1:-1:-1;;;;;4415:12:25;4401:10;:26;;;:54;;-1:-1:-1;4431:10:25;:24;4401:54;4397:162;;;4478:70;4483:18;4503:44;4478:4;:70::i;4397:162::-;4621:16;4640:5;;;4681:12;;-1:-1:-1;;;;;4681:12:25;;;-1:-1:-1;;;;;;4751:20:25;;;;;;;;;4817:25;;;;;;4858;;;4640:5;;;4858:25;;;4877:5;;;;4858:25;;;;;;4681:12;;4858:25;;;;;;;;;4931:12;;4898:46;;;-1:-1:-1;;;;;4898:46:25;;;;;4931:12;;;4898:46;;;;;;;;;;;;;;;;4967:14;4962:20;;177::10;;;-1:-1:-1;;;;;177:20:10;;:::o;1855:149:13:-;1916:4;1937:33;1950:3;1945:9;;;;;;;;1961:4;1956:10;;;;;;;;1937:33;;;;;;;;;;;;;1968:1;1937:33;;;;;;;;;;;;;1993:3;1988:9;;;;;;;;1981:16;1855:149;-1:-1:-1;;;1855:149:13:o",
+    "object": "0x60806040526004361061007b5760003560e01c8063dcfbc0c71161004e578063dcfbc0c71461019e578063e992a041146101b3578063e9c714f2146101e6578063f851a440146101fb5761007b565b806326782247146100fe578063b71d1a0c1461012f578063bb82aa5e14610174578063c1e8033414610189575b6002546040516000916001600160a01b031690829036908083838082843760405192019450600093509091505080830381855af49150503d80600081146100de576040519150601f19603f3d011682016040523d82523d6000602084013e6100e3565b606091505b505090506040513d6000823e8180156100fa573d82f35b3d82fd5b34801561010a57600080fd5b50610113610210565b604080516001600160a01b039092168252519081900360200190f35b34801561013b57600080fd5b506101626004803603602081101561015257600080fd5b50356001600160a01b031661021f565b60408051918252519081900360200190f35b34801561018057600080fd5b506101136102b0565b34801561019557600080fd5b506101626102bf565b3480156101aa57600080fd5b506101136103ba565b3480156101bf57600080fd5b50610162600480360360208110156101d657600080fd5b50356001600160a01b03166103c9565b3480156101f257600080fd5b5061016261044d565b34801561020757600080fd5b50610113610533565b6001546001600160a01b031681565b600080546001600160a01b031633146102455761023e6001600e610542565b90506102ab565b600180546001600160a01b038481166001600160a01b0319831681179093556040805191909216808252602082019390935281517fca4f2f25d0898edd99413412fb94012f9e54ec8142f9b093e7720646a95b16a9929181900390910190a160005b9150505b919050565b6002546001600160a01b031681565b6003546000906001600160a01b0316331415806102e557506003546001600160a01b0316155b156102fc576102f5600180610542565b90506103b7565b60028054600380546001600160a01b038082166001600160a01b031980861682179687905590921690925560408051938316808552949092166020840152815190927fd604de94d45953f9138079ec1b82d533cb2160c906d1076d1f7ed54befbca97a92908290030190a1600354604080516001600160a01b038085168252909216602083015280517fe945ccee5d701fc83f9b8aa8ca94ea4219ec1fcbd4f4cab4f0ea57c5c3e1d8159281900390910190a160005b925050505b90565b6003546001600160a01b031681565b600080546001600160a01b031633146103e85761023e6001600f610542565b600380546001600160a01b038481166001600160a01b0319831617928390556040805192821680845293909116602083015280517fe945ccee5d701fc83f9b8aa8ca94ea4219ec1fcbd4f4cab4f0ea57c5c3e1d8159281900390910190a160006102a7565b6001546000906001600160a01b031633141580610468575033155b15610479576102f560016000610542565b60008054600180546001600160a01b038082166001600160a01b031980861682179687905590921690925560408051938316808552949092166020840152815190927ff9ffabca9c8276e99321725bcb43fb076a6c66a54b7f21c4e8146d8519b417dc92908290030190a1600154604080516001600160a01b038085168252909216602083015280517fca4f2f25d0898edd99413412fb94012f9e54ec8142f9b093e7720646a95b16a99281900390910190a160006103b2565b6000546001600160a01b031681565b60007f45b96fe442630264581b197e84bbada861235052c5a1aadfff9ea4e40a969aa083601181111561057157fe5b83601381111561057d57fe5b604080519283526020830191909152600082820152519081900360600190a18260118111156105a857fe5b939250505056fea265627a7a72315820a61a6bab8ac008b188197c2df5cbea4255cacf8fde0a0bdb695eb5abf5e97d4a64736f6c63430005110032",
+    "sourceMap": "310:5343:25:-;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;5303:25;;:48;;5285:12;;-1:-1:-1;;;;;5303:25:25;;5285:12;;5342:8;;5303:48;5285:12;5342:8;;5285:12;5303:48;1:33:-1;5303:48:25;;45:16:-1;;;-1:-1;5303:48:25;;-1:-1:-1;5303:48:25;;-1:-1:-1;;5303:48:25;;;;;;;;;;;14:1:-1;21;16:31;;;;75:4;69:11;64:16;;144:4;140:9;133:4;115:16;111:27;107:43;104:1;100:51;94:4;87:65;169:16;166:1;159:27;225:16;222:1;215:4;212:1;208:12;193:49;7:242;;16:31;36:4;31:9;;7:242;;5284:67:25;;;5413:4;5407:11;5465:14;5462:1;5448:12;5433:47;5503:7;5525:47;;;;5618:14;5604:12;5597:36;5525:47;5555:14;5541:12;5534:36;273:27:9;;8:9:-1;5:2;;;30:1;27;20:12;5:2;273:27:9;;;:::i;:::-;;;;-1:-1:-1;;;;;273:27:9;;;;;;;;;;;;;;3377:621:25;;8:9:-1;5:2;;;30:1;27;20:12;5:2;3377:621:25;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;-1:-1;3377:621:25;-1:-1:-1;;;;;3377:621:25;;:::i;:::-;;;;;;;;;;;;;;;;364:40:9;;8:9:-1;5:2;;;30:1;27;20:12;5:2;364:40:9;;;:::i;2058:912:25:-;;8:9:-1;5:2;;;30:1;27;20:12;5:2;2058:912:25;;;:::i;469:47:9:-;;8:9:-1;5:2;;;30:1;27;20:12;5:2;469:47:9;;;:::i;1239:527:25:-;;8:9:-1;5:2;;;30:1;27;20:12;5:2;1239:527:25;;;;;;13:2:-1;8:3;5:11;2:2;;;29:1;26;19:12;2:2;-1:-1;1239:527:25;-1:-1:-1;;;;;1239:527:25;;:::i;4269:720::-;;8:9:-1;5:2;;;30:1;27;20:12;5:2;4269:720:25;;;:::i;177:20:9:-;;8:9:-1;5:2;;;30:1;27;20:12;5:2;177:20:9;;;:::i;273:27::-;;;-1:-1:-1;;;;;273:27:9;;:::o;3377:621:25:-;3444:4;3510:5;;-1:-1:-1;;;;;3510:5:25;3496:10;:19;3492:124;;3538:67;3543:18;3563:41;3538:4;:67::i;:::-;3531:74;;;;3492:124;3712:12;;;-1:-1:-1;;;;;3792:30:25;;;-1:-1:-1;;;;;;3792:30:25;;;;;;;3904:49;;;3712:12;;;;3904:49;;;;;;;;;;;;;;;;;;;;;;;3976:14;3971:20;3964:27;;;3377:621;;;;:::o;364:40:9:-;;;-1:-1:-1;;;;;364:40:9;;:::o;2058:912:25:-;2231:32;;2107:4;;-1:-1:-1;;;;;2231:32:25;2217:10;:46;;;:96;;-1:-1:-1;2267:32:25;;-1:-1:-1;;;;;2267:32:25;:46;2217:96;2213:215;;;2336:81;2341:18;2361:55;2336:4;:81::i;:::-;2329:88;;;;2213:215;2518:25;;;2588:32;;;-1:-1:-1;;;;;2588:32:25;;;-1:-1:-1;;;;;;2631:60:25;;;;;;;;;2702:45;;;;;;2763:63;;;2518:25;;;2763:63;;;2800:25;;;;2763:63;;;;;;2588:32;;2763:63;;;;;;;;;2892:32;;2841:84;;;-1:-1:-1;;;;;2841:84:25;;;;;2892:32;;;2841:84;;;;;;;;;;;;;;;;2948:14;2943:20;2936:27;;;;2058:912;;:::o;469:47:9:-;;;-1:-1:-1;;;;;469:47:9;;:::o;1239:527:25:-;1324:4;1359:5;;-1:-1:-1;;;;;1359:5:25;1345:10;:19;1341:133;;1387:76;1392:18;1412:50;1387:4;:76::i;1341:133::-;1519:32;;;-1:-1:-1;;;;;1562:59:25;;;-1:-1:-1;;;;;;1562:59:25;;;;;;;1637:84;;;1519:32;;;1637:84;;;1688:32;;;;1637:84;;;;;;;;;;;;;;;;1744:14;1739:20;;4269:720;4415:12;;4309:4;;-1:-1:-1;;;;;4415:12:25;4401:10;:26;;;:54;;-1:-1:-1;4431:10:25;:24;4401:54;4397:162;;;4478:70;4483:18;4503:44;4478:4;:70::i;4397:162::-;4621:16;4640:5;;;4681:12;;-1:-1:-1;;;;;4681:12:25;;;-1:-1:-1;;;;;;4751:20:25;;;;;;;;;4817:25;;;;;;4858;;;4640:5;;;4858:25;;;4877:5;;;;4858:25;;;;;;4681:12;;4858:25;;;;;;;;;4931:12;;4898:46;;;-1:-1:-1;;;;;4898:46:25;;;;;4931:12;;;4898:46;;;;;;;;;;;;;;;;4967:14;4962:20;;177::9;;;-1:-1:-1;;;;;177:20:9;;:::o;1855:149:12:-;1916:4;1937:33;1950:3;1945:9;;;;;;;;1961:4;1956:10;;;;;;;;1937:33;;;;;;;;;;;;;1968:1;1937:33;;;;;;;;;;;;;1993:3;1988:9;;;;;;;;1981:16;1855:149;-1:-1:-1;;;1855:149:12:o",
     "linkReferences": {}
   },
   "methodIdentifiers": {
@@ -265,10 +265,10 @@
     "pendingAdmin()": "26782247",
     "pendingComptrollerImplementation()": "dcfbc0c7"
   },
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"error\",\"type\":\"uint256\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"info\",\"type\":\"uint256\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"detail\",\"type\":\"uint256\"}],\"name\":\"Failure\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"oldAdmin\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"newAdmin\",\"type\":\"address\"}],\"name\":\"NewAdmin\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"oldImplementation\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"newImplementation\",\"type\":\"address\"}],\"name\":\"NewImplementation\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"oldPendingAdmin\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"newPendingAdmin\",\"type\":\"address\"}],\"name\":\"NewPendingAdmin\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"oldPendingImplementation\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"newPendingImplementation\",\"type\":\"address\"}],\"name\":\"NewPendingImplementation\",\"type\":\"event\"},{\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"constant\":false,\"inputs\":[],\"name\":\"_acceptAdmin\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[],\"name\":\"_acceptImplementation\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"internalType\":\"address\",\"name\":\"newPendingAdmin\",\"type\":\"address\"}],\"name\":\"_setPendingAdmin\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"internalType\":\"address\",\"name\":\"newPendingImplementation\",\"type\":\"address\"}],\"name\":\"_setPendingImplementation\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"admin\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"comptrollerImplementation\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"pendingAdmin\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"pendingComptrollerImplementation\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"details\":\"Storage for the comptroller is at this address, while execution is delegated to the `comptrollerImplementation`. CTokens should reference this contract as their comptroller.\",\"methods\":{\"_acceptAdmin()\":{\"details\":\"Admin function for pending admin to accept role and update admin\",\"return\":\"uint 0=success, otherwise a failure (see ErrorReporter.sol for details)\"},\"_acceptImplementation()\":{\"details\":\"Admin function for new implementation to accept it's role as implementation\",\"return\":\"uint 0=success, otherwise a failure (see ErrorReporter.sol for details)\"},\"_setPendingAdmin(address)\":{\"details\":\"Admin function to begin change of admin. The newPendingAdmin must call `_acceptAdmin` to finalize the transfer.\",\"params\":{\"newPendingAdmin\":\"New pending admin.\"},\"return\":\"uint 0=success, otherwise a failure (see ErrorReporter.sol for details)\"}},\"title\":\"ComptrollerCore\"},\"userdoc\":{\"methods\":{\"_acceptAdmin()\":{\"notice\":\"Accepts transfer of admin rights. msg.sender must be pendingAdmin\"},\"_acceptImplementation()\":{\"notice\":\"Accepts new implementation of comptroller. msg.sender must be pendingImplementation\"},\"_setPendingAdmin(address)\":{\"notice\":\"Begins transfer of admin rights. The newPendingAdmin must call `_acceptAdmin` to finalize the transfer.\"},\"_setPendingImplementation(address)\":{\"notice\":\"* Admin Functions **\"}}}},\"settings\":{\"compilationTarget\":{\"src/Unitroller.sol\":\"Unitroller\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[\":ds-test/=lib/forge-std/lib/ds-test/src/\",\":forge-std/=lib/forge-std/src/\"]},\"sources\":{\"src/CToken.sol\":{\"keccak256\":\"0xaf4d0ac6e07fb20cab027821a28ffbeaebdb2dd644c5df55dbc47f93173c0a54\",\"urls\":[\"bzz-raw://b03ff3e84eac9fef6ef99529268912b5f6ac8b45bf617e65d2c016bd668c9855\",\"dweb:/ipfs/QmRczvm13U1sjRJHrWtR8xa5L2NM8a9GgDz6AFFaoTV6fe\"]},\"src/CTokenInterfaces.sol\":{\"keccak256\":\"0x27d8a260aed42f4e63712570fb2edfdb9da6daf4cc9a842fd22b1741e9a027c8\",\"urls\":[\"bzz-raw://66da343415dd0a53079d6fd6813b676f1cc2452c76290cb2fb2275fff0779b79\",\"dweb:/ipfs/QmfUfzwvCaWaeDxPVrEtQQyX5vbJpcZTr5ARRk3oFpoEYV\"]},\"src/CarefulMath.sol\":{\"keccak256\":\"0x0647348f27e41d22555d99eebd217dee02a4d737df6accd7cce5347a7487c7de\",\"urls\":[\"bzz-raw://08882d26c11a6d240949a5afba79a74694a8b651093c05c5ae4cc359a0181c22\",\"dweb:/ipfs/QmVXb1tDswuhMRNuDLajzohdkvx2kBmqu1Rxn1BAKUfhkV\"]},\"src/ComptrollerInterface.sol\":{\"keccak256\":\"0xd4351cea4a5a1b41d7850ff4671fc57dab1b40eeaaa1248c5b408e5c0849a814\",\"urls\":[\"bzz-raw://65ab2da560dddca441d8d8490bfb37a4ee2ca45fba70eb70e13fd16d333fcf73\",\"dweb:/ipfs/QmaywNnhG8uo1k6MDM3CvXQ4MPy8p32Sv25B7rwKGo6yez\"]},\"src/ComptrollerStorage.sol\":{\"keccak256\":\"0x09ae7ca7bd1170075d47240330e12a996df29b145c7b8fd3af0edd318f54fce8\",\"urls\":[\"bzz-raw://e1ca644195f9eae6be26f45de1b1a61795975578b9f5284b8cf6bee5f6222197\",\"dweb:/ipfs/QmUb3F9apwLwWJaruyUjRxqzbkfEXtAyWQuAbU2gsm1bKs\"]},\"src/EIP20Interface.sol\":{\"keccak256\":\"0xb297449a2912cf038636bf2d7536a5d4ac502e32ea3cc8b9501bd83a86dcde10\",\"urls\":[\"bzz-raw://50eb8e7916f5a06e35028908a3b585bee71d06562ba30ce1fe23f4b04789e720\",\"dweb:/ipfs/QmP6cAckKNq1p3ZEqM4RtU129E5SG99RK56JfucWhq1xHB\"]},\"src/EIP20NonStandardInterface.sol\":{\"keccak256\":\"0x6164e8bb8242373ce0cd395263a0410a396fb6a493d504df6cce4fd086b27307\",\"urls\":[\"bzz-raw://317b3d392f301843bc80b3abf4c58d7e277bfbde9f0189b5bb57e5c0a273e590\",\"dweb:/ipfs/QmbeDpRSqYUZnhkSymz5BLyD2ShE6S2nHW2TV82H9WMSb9\"]},\"src/ErrorReporter.sol\":{\"keccak256\":\"0x5179afb1071c0fd555e5c1f1d2565f72dbe1740cc3dd02f6e52037f150afc5c9\",\"urls\":[\"bzz-raw://691454eb195c6ec77409cf681ef6929c8102e65d25dd563bf2a93c04eaceeb9f\",\"dweb:/ipfs/QmegumxJuZ5yeDmJoahzGfH4EV4d1XFvmH1vNfdcdcrWJi\"]},\"src/Exponential.sol\":{\"keccak256\":\"0xbea4adddf9d0edeb774d025d9cab60e74609e15e265270617e21bcc7cf59a236\",\"urls\":[\"bzz-raw://092b00a7ca0f25e275d4d83fa9e1fe9c3a6e28d2c08bb70d69cd15aeca3c289b\",\"dweb:/ipfs/QmY6XnD4mR5LUk3W4gBZU8p1GCrAQbrqFkxTK7dx3k7T3d\"]},\"src/ExponentialNoError.sol\":{\"keccak256\":\"0x0690fa93a43e27079c70e49cec583364f694738f213e84d11278db2bb1b08291\",\"urls\":[\"bzz-raw://666a67c2be9f2348684f5309f6de47017be445f0ea7245c5ef24b673a4614c62\",\"dweb:/ipfs/QmWUxUT8Z8jpkxKzWL3yPJu17HbWbJftTczMHTZHMdv8tD\"]},\"src/InterestRateModel.sol\":{\"keccak256\":\"0xdebc1ed7d463b15934acd825f3b614afacfb30396be1dbced29e65185ad9b006\",\"urls\":[\"bzz-raw://0c06e09ef650ae27e5551f95272b2d5aaa3b5d0105773a798954db61fccd2c35\",\"dweb:/ipfs/QmYgFk6y7Dse1iozjxp6QzjCB4S6iXZVeH1iTLeDfkaCxm\"]},\"src/PriceOracle.sol\":{\"keccak256\":\"0x5d1702674c666406880fd28375c1afae6c7a9df49d45847b380700100ef23cec\",\"urls\":[\"bzz-raw://49dda2b3307617db9a27193a784fec6aa5cea5d79a597368962098e00ba50003\",\"dweb:/ipfs/Qmc5W7MNKttUBnop99YfPwZG7EikzsDrYmgMoS2Wcw69g8\"]},\"src/Unitroller.sol\":{\"keccak256\":\"0xfe65cb23a88ea315118b7a62c6a5813c2e690cb36941548f6896ad231343071d\",\"urls\":[\"bzz-raw://0133c8e4195b53ce6a78cae73adb9361c867530f619f4bc0994e59a77fa3d909\",\"dweb:/ipfs/QmawRjy7xfqJA2frTZh4XXGDbKHJjSQDzsf8gsfQEPwwh6\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.5.17+commit.d19bba13\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"constructor\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"error\",\"type\":\"uint256\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"info\",\"type\":\"uint256\"},{\"indexed\":false,\"internalType\":\"uint256\",\"name\":\"detail\",\"type\":\"uint256\"}],\"name\":\"Failure\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"oldAdmin\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"newAdmin\",\"type\":\"address\"}],\"name\":\"NewAdmin\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"oldImplementation\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"newImplementation\",\"type\":\"address\"}],\"name\":\"NewImplementation\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"oldPendingAdmin\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"newPendingAdmin\",\"type\":\"address\"}],\"name\":\"NewPendingAdmin\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":false,\"internalType\":\"address\",\"name\":\"oldPendingImplementation\",\"type\":\"address\"},{\"indexed\":false,\"internalType\":\"address\",\"name\":\"newPendingImplementation\",\"type\":\"address\"}],\"name\":\"NewPendingImplementation\",\"type\":\"event\"},{\"payable\":true,\"stateMutability\":\"payable\",\"type\":\"fallback\"},{\"constant\":false,\"inputs\":[],\"name\":\"_acceptAdmin\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[],\"name\":\"_acceptImplementation\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"internalType\":\"address\",\"name\":\"newPendingAdmin\",\"type\":\"address\"}],\"name\":\"_setPendingAdmin\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"constant\":false,\"inputs\":[{\"internalType\":\"address\",\"name\":\"newPendingImplementation\",\"type\":\"address\"}],\"name\":\"_setPendingImplementation\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"admin\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"comptrollerImplementation\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"pendingAdmin\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"pendingComptrollerImplementation\",\"outputs\":[{\"internalType\":\"address\",\"name\":\"\",\"type\":\"address\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"details\":\"Storage for the comptroller is at this address, while execution is delegated to the `comptrollerImplementation`. CTokens should reference this contract as their comptroller.\",\"methods\":{\"_acceptAdmin()\":{\"details\":\"Admin function for pending admin to accept role and update admin\",\"return\":\"uint 0=success, otherwise a failure (see ErrorReporter.sol for details)\"},\"_acceptImplementation()\":{\"details\":\"Admin function for new implementation to accept it's role as implementation\",\"return\":\"uint 0=success, otherwise a failure (see ErrorReporter.sol for details)\"},\"_setPendingAdmin(address)\":{\"details\":\"Admin function to begin change of admin. The newPendingAdmin must call `_acceptAdmin` to finalize the transfer.\",\"params\":{\"newPendingAdmin\":\"New pending admin.\"},\"return\":\"uint 0=success, otherwise a failure (see ErrorReporter.sol for details)\"}},\"title\":\"ComptrollerCore\"},\"userdoc\":{\"methods\":{\"_acceptAdmin()\":{\"notice\":\"Accepts transfer of admin rights. msg.sender must be pendingAdmin\"},\"_acceptImplementation()\":{\"notice\":\"Accepts new implementation of comptroller. msg.sender must be pendingImplementation\"},\"_setPendingAdmin(address)\":{\"notice\":\"Begins transfer of admin rights. The newPendingAdmin must call `_acceptAdmin` to finalize the transfer.\"},\"_setPendingImplementation(address)\":{\"notice\":\"* Admin Functions **\"}}}},\"settings\":{\"compilationTarget\":{\"src/Unitroller.sol\":\"Unitroller\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[\":ds-test/=lib/forge-std/lib/ds-test/src/\",\":forge-std/=lib/forge-std/src/\"]},\"sources\":{\"src/CToken.sol\":{\"keccak256\":\"0xaf4d0ac6e07fb20cab027821a28ffbeaebdb2dd644c5df55dbc47f93173c0a54\",\"urls\":[\"bzz-raw://b03ff3e84eac9fef6ef99529268912b5f6ac8b45bf617e65d2c016bd668c9855\",\"dweb:/ipfs/QmRczvm13U1sjRJHrWtR8xa5L2NM8a9GgDz6AFFaoTV6fe\"]},\"src/CTokenInterfaces.sol\":{\"keccak256\":\"0x27d8a260aed42f4e63712570fb2edfdb9da6daf4cc9a842fd22b1741e9a027c8\",\"urls\":[\"bzz-raw://66da343415dd0a53079d6fd6813b676f1cc2452c76290cb2fb2275fff0779b79\",\"dweb:/ipfs/QmfUfzwvCaWaeDxPVrEtQQyX5vbJpcZTr5ARRk3oFpoEYV\"]},\"src/CarefulMath.sol\":{\"keccak256\":\"0x0647348f27e41d22555d99eebd217dee02a4d737df6accd7cce5347a7487c7de\",\"urls\":[\"bzz-raw://08882d26c11a6d240949a5afba79a74694a8b651093c05c5ae4cc359a0181c22\",\"dweb:/ipfs/QmVXb1tDswuhMRNuDLajzohdkvx2kBmqu1Rxn1BAKUfhkV\"]},\"src/ComptrollerInterface.sol\":{\"keccak256\":\"0xd4351cea4a5a1b41d7850ff4671fc57dab1b40eeaaa1248c5b408e5c0849a814\",\"urls\":[\"bzz-raw://65ab2da560dddca441d8d8490bfb37a4ee2ca45fba70eb70e13fd16d333fcf73\",\"dweb:/ipfs/QmaywNnhG8uo1k6MDM3CvXQ4MPy8p32Sv25B7rwKGo6yez\"]},\"src/ComptrollerStorage.sol\":{\"keccak256\":\"0x09ae7ca7bd1170075d47240330e12a996df29b145c7b8fd3af0edd318f54fce8\",\"urls\":[\"bzz-raw://e1ca644195f9eae6be26f45de1b1a61795975578b9f5284b8cf6bee5f6222197\",\"dweb:/ipfs/QmUb3F9apwLwWJaruyUjRxqzbkfEXtAyWQuAbU2gsm1bKs\"]},\"src/EIP20Interface.sol\":{\"keccak256\":\"0xb297449a2912cf038636bf2d7536a5d4ac502e32ea3cc8b9501bd83a86dcde10\",\"urls\":[\"bzz-raw://50eb8e7916f5a06e35028908a3b585bee71d06562ba30ce1fe23f4b04789e720\",\"dweb:/ipfs/QmP6cAckKNq1p3ZEqM4RtU129E5SG99RK56JfucWhq1xHB\"]},\"src/EIP20NonStandardInterface.sol\":{\"keccak256\":\"0x6164e8bb8242373ce0cd395263a0410a396fb6a493d504df6cce4fd086b27307\",\"urls\":[\"bzz-raw://317b3d392f301843bc80b3abf4c58d7e277bfbde9f0189b5bb57e5c0a273e590\",\"dweb:/ipfs/QmbeDpRSqYUZnhkSymz5BLyD2ShE6S2nHW2TV82H9WMSb9\"]},\"src/ErrorReporter.sol\":{\"keccak256\":\"0x5179afb1071c0fd555e5c1f1d2565f72dbe1740cc3dd02f6e52037f150afc5c9\",\"urls\":[\"bzz-raw://691454eb195c6ec77409cf681ef6929c8102e65d25dd563bf2a93c04eaceeb9f\",\"dweb:/ipfs/QmegumxJuZ5yeDmJoahzGfH4EV4d1XFvmH1vNfdcdcrWJi\"]},\"src/Exponential.sol\":{\"keccak256\":\"0xbea4adddf9d0edeb774d025d9cab60e74609e15e265270617e21bcc7cf59a236\",\"urls\":[\"bzz-raw://092b00a7ca0f25e275d4d83fa9e1fe9c3a6e28d2c08bb70d69cd15aeca3c289b\",\"dweb:/ipfs/QmY6XnD4mR5LUk3W4gBZU8p1GCrAQbrqFkxTK7dx3k7T3d\"]},\"src/ExponentialNoError.sol\":{\"keccak256\":\"0x0690fa93a43e27079c70e49cec583364f694738f213e84d11278db2bb1b08291\",\"urls\":[\"bzz-raw://666a67c2be9f2348684f5309f6de47017be445f0ea7245c5ef24b673a4614c62\",\"dweb:/ipfs/QmWUxUT8Z8jpkxKzWL3yPJu17HbWbJftTczMHTZHMdv8tD\"]},\"src/InterestRateModel.sol\":{\"keccak256\":\"0xdebc1ed7d463b15934acd825f3b614afacfb30396be1dbced29e65185ad9b006\",\"urls\":[\"bzz-raw://0c06e09ef650ae27e5551f95272b2d5aaa3b5d0105773a798954db61fccd2c35\",\"dweb:/ipfs/QmYgFk6y7Dse1iozjxp6QzjCB4S6iXZVeH1iTLeDfkaCxm\"]},\"src/PriceOracle.sol\":{\"keccak256\":\"0x5d1702674c666406880fd28375c1afae6c7a9df49d45847b380700100ef23cec\",\"urls\":[\"bzz-raw://49dda2b3307617db9a27193a784fec6aa5cea5d79a597368962098e00ba50003\",\"dweb:/ipfs/Qmc5W7MNKttUBnop99YfPwZG7EikzsDrYmgMoS2Wcw69g8\"]},\"src/Unitroller.sol\":{\"keccak256\":\"0xfe65cb23a88ea315118b7a62c6a5813c2e690cb36941548f6896ad231343071d\",\"urls\":[\"bzz-raw://0133c8e4195b53ce6a78cae73adb9361c867530f619f4bc0994e59a77fa3d909\",\"dweb:/ipfs/QmawRjy7xfqJA2frTZh4XXGDbKHJjSQDzsf8gsfQEPwwh6\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
-      "version": "0.5.16+commit.9c3226ce"
+      "version": "0.5.17+commit.d19bba13"
     },
     "language": "Solidity",
     "output": {
@@ -661,17 +661,17 @@
   },
   "ast": {
     "absolutePath": "src/Unitroller.sol",
-    "id": 15335,
+    "id": 15538,
     "exportedSymbols": {
       "Unitroller": [
-        15334
+        15537
       ]
     },
     "nodeType": "SourceUnit",
     "src": "0:5653:25",
     "nodes": [
       {
-        "id": 15086,
+        "id": 15289,
         "nodeType": "PragmaDirective",
         "src": "0:24:25",
         "nodes": [],
@@ -683,36 +683,36 @@
         ]
       },
       {
-        "id": 15087,
+        "id": 15290,
         "nodeType": "ImportDirective",
         "src": "26:29:25",
         "nodes": [],
         "absolutePath": "src/ErrorReporter.sol",
         "file": "./ErrorReporter.sol",
-        "scope": 15335,
-        "sourceUnit": 9691,
+        "scope": 15538,
+        "sourceUnit": 9690,
         "symbolAliases": [],
         "unitAlias": ""
       },
       {
-        "id": 15088,
+        "id": 15291,
         "nodeType": "ImportDirective",
         "src": "56:34:25",
         "nodes": [],
         "absolutePath": "src/ComptrollerStorage.sol",
         "file": "./ComptrollerStorage.sol",
-        "scope": 15335,
-        "sourceUnit": 9282,
+        "scope": 15538,
+        "sourceUnit": 9281,
         "symbolAliases": [],
         "unitAlias": ""
       },
       {
-        "id": 15334,
+        "id": 15537,
         "nodeType": "ContractDefinition",
         "src": "310:5343:25",
         "nodes": [
           {
-            "id": 15098,
+            "id": 15301,
             "nodeType": "EventDefinition",
             "src": "479:99:25",
             "nodes": [],
@@ -720,16 +720,16 @@
             "documentation": "@notice Emitted when pendingComptrollerImplementation is changed",
             "name": "NewPendingImplementation",
             "parameters": {
-              "id": 15097,
+              "id": 15300,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 15094,
+                  "id": 15297,
                   "indexed": false,
                   "name": "oldPendingImplementation",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15098,
+                  "scope": 15301,
                   "src": "510:32:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -738,7 +738,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 15093,
+                    "id": 15296,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "510:7:25",
@@ -753,11 +753,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 15096,
+                  "id": 15299,
                   "indexed": false,
                   "name": "newPendingImplementation",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15098,
+                  "scope": 15301,
                   "src": "544:32:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -766,7 +766,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 15095,
+                    "id": 15298,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "544:7:25",
@@ -784,7 +784,7 @@
             }
           },
           {
-            "id": 15104,
+            "id": 15307,
             "nodeType": "EventDefinition",
             "src": "726:78:25",
             "nodes": [],
@@ -792,16 +792,16 @@
             "documentation": "@notice Emitted when pendingComptrollerImplementation is accepted, which means comptroller implementation is updated",
             "name": "NewImplementation",
             "parameters": {
-              "id": 15103,
+              "id": 15306,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 15100,
+                  "id": 15303,
                   "indexed": false,
                   "name": "oldImplementation",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15104,
+                  "scope": 15307,
                   "src": "750:25:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -810,7 +810,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 15099,
+                    "id": 15302,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "750:7:25",
@@ -825,11 +825,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 15102,
+                  "id": 15305,
                   "indexed": false,
                   "name": "newImplementation",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15104,
+                  "scope": 15307,
                   "src": "777:25:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -838,7 +838,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 15101,
+                    "id": 15304,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "777:7:25",
@@ -856,7 +856,7 @@
             }
           },
           {
-            "id": 15110,
+            "id": 15313,
             "nodeType": "EventDefinition",
             "src": "880:72:25",
             "nodes": [],
@@ -864,16 +864,16 @@
             "documentation": "@notice Emitted when pendingAdmin is changed",
             "name": "NewPendingAdmin",
             "parameters": {
-              "id": 15109,
+              "id": 15312,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 15106,
+                  "id": 15309,
                   "indexed": false,
                   "name": "oldPendingAdmin",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15110,
+                  "scope": 15313,
                   "src": "902:23:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -882,7 +882,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 15105,
+                    "id": 15308,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "902:7:25",
@@ -897,11 +897,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 15108,
+                  "id": 15311,
                   "indexed": false,
                   "name": "newPendingAdmin",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15110,
+                  "scope": 15313,
                   "src": "927:23:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -910,7 +910,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 15107,
+                    "id": 15310,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "927:7:25",
@@ -928,7 +928,7 @@
             }
           },
           {
-            "id": 15116,
+            "id": 15319,
             "nodeType": "EventDefinition",
             "src": "1059:51:25",
             "nodes": [],
@@ -936,16 +936,16 @@
             "documentation": "@notice Emitted when pendingAdmin is accepted, which means admin is updated",
             "name": "NewAdmin",
             "parameters": {
-              "id": 15115,
+              "id": 15318,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 15112,
+                  "id": 15315,
                   "indexed": false,
                   "name": "oldAdmin",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15116,
+                  "scope": 15319,
                   "src": "1074:16:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -954,7 +954,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 15111,
+                    "id": 15314,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "1074:7:25",
@@ -969,11 +969,11 @@
                 },
                 {
                   "constant": false,
-                  "id": 15114,
+                  "id": 15317,
                   "indexed": false,
                   "name": "newAdmin",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15116,
+                  "scope": 15319,
                   "src": "1092:16:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -982,7 +982,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 15113,
+                    "id": 15316,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "1092:7:25",
@@ -1000,12 +1000,12 @@
             }
           },
           {
-            "id": 15125,
+            "id": 15328,
             "nodeType": "FunctionDefinition",
             "src": "1116:87:25",
             "nodes": [],
             "body": {
-              "id": 15124,
+              "id": 15327,
               "nodeType": "Block",
               "src": "1137:66:25",
               "nodes": [],
@@ -1013,18 +1013,18 @@
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 15122,
+                    "id": 15325,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 15119,
+                      "id": 15322,
                       "name": "admin",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 9161,
+                      "referencedDeclaration": 9160,
                       "src": "1178:5:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -1037,18 +1037,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 15120,
+                        "id": 15323,
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 15350,
+                        "referencedDeclaration": 15552,
                         "src": "1186:3:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
                           "typeString": "msg"
                         }
                       },
-                      "id": 15121,
+                      "id": 15324,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -1068,7 +1068,7 @@
                       "typeString": "address"
                     }
                   },
-                  "id": 15123,
+                  "id": 15326,
                   "nodeType": "ExpressionStatement",
                   "src": "1178:18:25"
                 }
@@ -1080,29 +1080,29 @@
             "modifiers": [],
             "name": "",
             "parameters": {
-              "id": 15117,
+              "id": 15320,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "1127:2:25"
             },
             "returnParameters": {
-              "id": 15118,
+              "id": 15321,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "1137:0:25"
             },
-            "scope": 15334,
+            "scope": 15537,
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
-            "id": 15164,
+            "id": 15367,
             "nodeType": "FunctionDefinition",
             "src": "1239:527:25",
             "nodes": [],
             "body": {
-              "id": 15163,
+              "id": 15366,
               "nodeType": "Block",
               "src": "1330:436:25",
               "nodes": [],
@@ -1114,7 +1114,7 @@
                       "typeIdentifier": "t_address",
                       "typeString": "address"
                     },
-                    "id": 15135,
+                    "id": 15338,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1123,18 +1123,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 15132,
+                        "id": 15335,
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 15350,
+                        "referencedDeclaration": 15552,
                         "src": "1345:3:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
                           "typeString": "msg"
                         }
                       },
-                      "id": 15133,
+                      "id": 15336,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -1152,11 +1152,11 @@
                     "operator": "!=",
                     "rightExpression": {
                       "argumentTypes": null,
-                      "id": 15134,
+                      "id": 15337,
                       "name": "admin",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 9161,
+                      "referencedDeclaration": 9160,
                       "src": "1359:5:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -1170,11 +1170,11 @@
                     }
                   },
                   "falseBody": null,
-                  "id": 15144,
+                  "id": 15347,
                   "nodeType": "IfStatement",
                   "src": "1341:133:25",
                   "trueBody": {
-                    "id": 15143,
+                    "id": 15346,
                     "nodeType": "Block",
                     "src": "1366:108:25",
                     "statements": [
@@ -1186,18 +1186,18 @@
                               "argumentTypes": null,
                               "expression": {
                                 "argumentTypes": null,
-                                "id": 15137,
+                                "id": 15340,
                                 "name": "Error",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 9451,
+                                "referencedDeclaration": 9450,
                                 "src": "1392:5:25",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_type$_t_enum$_Error_$9451_$",
+                                  "typeIdentifier": "t_type$_t_enum$_Error_$9450_$",
                                   "typeString": "type(enum ComptrollerErrorReporter.Error)"
                                 }
                               },
-                              "id": 15138,
+                              "id": 15341,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
@@ -1207,7 +1207,7 @@
                               "referencedDeclaration": null,
                               "src": "1392:18:25",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_enum$_Error_$9451",
+                                "typeIdentifier": "t_enum$_Error_$9450",
                                 "typeString": "enum ComptrollerErrorReporter.Error"
                               }
                             },
@@ -1215,18 +1215,18 @@
                               "argumentTypes": null,
                               "expression": {
                                 "argumentTypes": null,
-                                "id": 15139,
+                                "id": 15342,
                                 "name": "FailureInfo",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 9472,
+                                "referencedDeclaration": 9471,
                                 "src": "1412:11:25",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_type$_t_enum$_FailureInfo_$9472_$",
+                                  "typeIdentifier": "t_type$_t_enum$_FailureInfo_$9471_$",
                                   "typeString": "type(enum ComptrollerErrorReporter.FailureInfo)"
                                 }
                               },
-                              "id": 15140,
+                              "id": 15343,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
@@ -1236,7 +1236,7 @@
                               "referencedDeclaration": null,
                               "src": "1412:50:25",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_enum$_FailureInfo_$9472",
+                                "typeIdentifier": "t_enum$_FailureInfo_$9471",
                                 "typeString": "enum ComptrollerErrorReporter.FailureInfo"
                               }
                             }
@@ -1244,26 +1244,26 @@
                           "expression": {
                             "argumentTypes": [
                               {
-                                "typeIdentifier": "t_enum$_Error_$9451",
+                                "typeIdentifier": "t_enum$_Error_$9450",
                                 "typeString": "enum ComptrollerErrorReporter.Error"
                               },
                               {
-                                "typeIdentifier": "t_enum$_FailureInfo_$9472",
+                                "typeIdentifier": "t_enum$_FailureInfo_$9471",
                                 "typeString": "enum ComptrollerErrorReporter.FailureInfo"
                               }
                             ],
-                            "id": 15136,
+                            "id": 15339,
                             "name": "fail",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 9504,
+                            "referencedDeclaration": 9503,
                             "src": "1387:4:25",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_function_internal_nonpayable$_t_enum$_Error_$9451_$_t_enum$_FailureInfo_$9472_$returns$_t_uint256_$",
+                              "typeIdentifier": "t_function_internal_nonpayable$_t_enum$_Error_$9450_$_t_enum$_FailureInfo_$9471_$returns$_t_uint256_$",
                               "typeString": "function (enum ComptrollerErrorReporter.Error,enum ComptrollerErrorReporter.FailureInfo) returns (uint256)"
                             }
                           },
-                          "id": 15141,
+                          "id": 15344,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -1277,8 +1277,8 @@
                             "typeString": "uint256"
                           }
                         },
-                        "functionReturnParameters": 15131,
-                        "id": 15142,
+                        "functionReturnParameters": 15334,
+                        "id": 15345,
                         "nodeType": "Return",
                         "src": "1380:83:25"
                       }
@@ -1287,15 +1287,15 @@
                 },
                 {
                   "assignments": [
-                    15146
+                    15349
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 15146,
+                      "id": 15349,
                       "name": "oldPendingImplementation",
                       "nodeType": "VariableDeclaration",
-                      "scope": 15163,
+                      "scope": 15366,
                       "src": "1484:32:25",
                       "stateVariable": false,
                       "storageLocation": "default",
@@ -1304,7 +1304,7 @@
                         "typeString": "address"
                       },
                       "typeName": {
-                        "id": 15145,
+                        "id": 15348,
                         "name": "address",
                         "nodeType": "ElementaryTypeName",
                         "src": "1484:7:25",
@@ -1318,14 +1318,14 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 15148,
+                  "id": 15351,
                   "initialValue": {
                     "argumentTypes": null,
-                    "id": 15147,
+                    "id": 15350,
                     "name": "pendingComptrollerImplementation",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 9167,
+                    "referencedDeclaration": 9166,
                     "src": "1519:32:25",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
@@ -1338,18 +1338,18 @@
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 15151,
+                    "id": 15354,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 15149,
+                      "id": 15352,
                       "name": "pendingComptrollerImplementation",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 9167,
+                      "referencedDeclaration": 9166,
                       "src": "1562:32:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -1360,11 +1360,11 @@
                     "operator": "=",
                     "rightHandSide": {
                       "argumentTypes": null,
-                      "id": 15150,
+                      "id": 15353,
                       "name": "newPendingImplementation",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 15127,
+                      "referencedDeclaration": 15330,
                       "src": "1597:24:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -1377,7 +1377,7 @@
                       "typeString": "address"
                     }
                   },
-                  "id": 15152,
+                  "id": 15355,
                   "nodeType": "ExpressionStatement",
                   "src": "1562:59:25"
                 },
@@ -1387,11 +1387,11 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 15154,
+                        "id": 15357,
                         "name": "oldPendingImplementation",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 15146,
+                        "referencedDeclaration": 15349,
                         "src": "1662:24:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -1400,11 +1400,11 @@
                       },
                       {
                         "argumentTypes": null,
-                        "id": 15155,
+                        "id": 15358,
                         "name": "pendingComptrollerImplementation",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 9167,
+                        "referencedDeclaration": 9166,
                         "src": "1688:32:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -1423,18 +1423,18 @@
                           "typeString": "address"
                         }
                       ],
-                      "id": 15153,
+                      "id": 15356,
                       "name": "NewPendingImplementation",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 15098,
+                      "referencedDeclaration": 15301,
                       "src": "1637:24:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_address_$returns$__$",
                         "typeString": "function (address,address)"
                       }
                     },
-                    "id": 15156,
+                    "id": 15359,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1448,7 +1448,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 15157,
+                  "id": 15360,
                   "nodeType": "EmitStatement",
                   "src": "1632:89:25"
                 },
@@ -1460,18 +1460,18 @@
                         "argumentTypes": null,
                         "expression": {
                           "argumentTypes": null,
-                          "id": 15159,
+                          "id": 15362,
                           "name": "Error",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 9451,
+                          "referencedDeclaration": 9450,
                           "src": "1744:5:25",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_enum$_Error_$9451_$",
+                            "typeIdentifier": "t_type$_t_enum$_Error_$9450_$",
                             "typeString": "type(enum ComptrollerErrorReporter.Error)"
                           }
                         },
-                        "id": 15160,
+                        "id": 15363,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -1481,7 +1481,7 @@
                         "referencedDeclaration": null,
                         "src": "1744:14:25",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_enum$_Error_$9451",
+                          "typeIdentifier": "t_enum$_Error_$9450",
                           "typeString": "enum ComptrollerErrorReporter.Error"
                         }
                       }
@@ -1489,11 +1489,11 @@
                     "expression": {
                       "argumentTypes": [
                         {
-                          "typeIdentifier": "t_enum$_Error_$9451",
+                          "typeIdentifier": "t_enum$_Error_$9450",
                           "typeString": "enum ComptrollerErrorReporter.Error"
                         }
                       ],
-                      "id": 15158,
+                      "id": 15361,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -1506,7 +1506,7 @@
                       },
                       "typeName": "uint"
                     },
-                    "id": 15161,
+                    "id": 15364,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": true,
@@ -1520,8 +1520,8 @@
                       "typeString": "uint256"
                     }
                   },
-                  "functionReturnParameters": 15131,
-                  "id": 15162,
+                  "functionReturnParameters": 15334,
+                  "id": 15365,
                   "nodeType": "Return",
                   "src": "1732:27:25"
                 }
@@ -1533,15 +1533,15 @@
             "modifiers": [],
             "name": "_setPendingImplementation",
             "parameters": {
-              "id": 15128,
+              "id": 15331,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 15127,
+                  "id": 15330,
                   "name": "newPendingImplementation",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15164,
+                  "scope": 15367,
                   "src": "1274:32:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -1550,7 +1550,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 15126,
+                    "id": 15329,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "1274:7:25",
@@ -1567,15 +1567,15 @@
               "src": "1273:34:25"
             },
             "returnParameters": {
-              "id": 15131,
+              "id": 15334,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 15130,
+                  "id": 15333,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15164,
+                  "scope": 15367,
                   "src": "1324:4:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -1584,7 +1584,7 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 15129,
+                    "id": 15332,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
                     "src": "1324:4:25",
@@ -1599,18 +1599,18 @@
               ],
               "src": "1323:6:25"
             },
-            "scope": 15334,
+            "scope": 15537,
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
-            "id": 15222,
+            "id": 15425,
             "nodeType": "FunctionDefinition",
             "src": "2058:912:25",
             "nodes": [],
             "body": {
-              "id": 15221,
+              "id": 15424,
               "nodeType": "Block",
               "src": "2113:857:25",
               "nodes": [],
@@ -1622,7 +1622,7 @@
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     },
-                    "id": 15178,
+                    "id": 15381,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -1633,7 +1633,7 @@
                         "typeIdentifier": "t_address",
                         "typeString": "address"
                       },
-                      "id": 15172,
+                      "id": 15375,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -1642,18 +1642,18 @@
                         "argumentTypes": null,
                         "expression": {
                           "argumentTypes": null,
-                          "id": 15169,
+                          "id": 15372,
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 15350,
+                          "referencedDeclaration": 15552,
                           "src": "2217:3:25",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
                             "typeString": "msg"
                           }
                         },
-                        "id": 15170,
+                        "id": 15373,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -1671,11 +1671,11 @@
                       "operator": "!=",
                       "rightExpression": {
                         "argumentTypes": null,
-                        "id": 15171,
+                        "id": 15374,
                         "name": "pendingComptrollerImplementation",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 9167,
+                        "referencedDeclaration": 9166,
                         "src": "2231:32:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -1696,18 +1696,18 @@
                         "typeIdentifier": "t_address",
                         "typeString": "address"
                       },
-                      "id": 15177,
+                      "id": 15380,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
                       "lValueRequested": false,
                       "leftExpression": {
                         "argumentTypes": null,
-                        "id": 15173,
+                        "id": 15376,
                         "name": "pendingComptrollerImplementation",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 9167,
+                        "referencedDeclaration": 9166,
                         "src": "2267:32:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -1722,7 +1722,7 @@
                           {
                             "argumentTypes": null,
                             "hexValue": "30",
-                            "id": 15175,
+                            "id": 15378,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": true,
@@ -1745,7 +1745,7 @@
                               "typeString": "int_const 0"
                             }
                           ],
-                          "id": 15174,
+                          "id": 15377,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -1758,7 +1758,7 @@
                           },
                           "typeName": "address"
                         },
-                        "id": 15176,
+                        "id": 15379,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -1785,11 +1785,11 @@
                     }
                   },
                   "falseBody": null,
-                  "id": 15187,
+                  "id": 15390,
                   "nodeType": "IfStatement",
                   "src": "2213:215:25",
                   "trueBody": {
-                    "id": 15186,
+                    "id": 15389,
                     "nodeType": "Block",
                     "src": "2315:113:25",
                     "statements": [
@@ -1801,18 +1801,18 @@
                               "argumentTypes": null,
                               "expression": {
                                 "argumentTypes": null,
-                                "id": 15180,
+                                "id": 15383,
                                 "name": "Error",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 9451,
+                                "referencedDeclaration": 9450,
                                 "src": "2341:5:25",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_type$_t_enum$_Error_$9451_$",
+                                  "typeIdentifier": "t_type$_t_enum$_Error_$9450_$",
                                   "typeString": "type(enum ComptrollerErrorReporter.Error)"
                                 }
                               },
-                              "id": 15181,
+                              "id": 15384,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
@@ -1822,7 +1822,7 @@
                               "referencedDeclaration": null,
                               "src": "2341:18:25",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_enum$_Error_$9451",
+                                "typeIdentifier": "t_enum$_Error_$9450",
                                 "typeString": "enum ComptrollerErrorReporter.Error"
                               }
                             },
@@ -1830,18 +1830,18 @@
                               "argumentTypes": null,
                               "expression": {
                                 "argumentTypes": null,
-                                "id": 15182,
+                                "id": 15385,
                                 "name": "FailureInfo",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 9472,
+                                "referencedDeclaration": 9471,
                                 "src": "2361:11:25",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_type$_t_enum$_FailureInfo_$9472_$",
+                                  "typeIdentifier": "t_type$_t_enum$_FailureInfo_$9471_$",
                                   "typeString": "type(enum ComptrollerErrorReporter.FailureInfo)"
                                 }
                               },
-                              "id": 15183,
+                              "id": 15386,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
@@ -1851,7 +1851,7 @@
                               "referencedDeclaration": null,
                               "src": "2361:55:25",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_enum$_FailureInfo_$9472",
+                                "typeIdentifier": "t_enum$_FailureInfo_$9471",
                                 "typeString": "enum ComptrollerErrorReporter.FailureInfo"
                               }
                             }
@@ -1859,26 +1859,26 @@
                           "expression": {
                             "argumentTypes": [
                               {
-                                "typeIdentifier": "t_enum$_Error_$9451",
+                                "typeIdentifier": "t_enum$_Error_$9450",
                                 "typeString": "enum ComptrollerErrorReporter.Error"
                               },
                               {
-                                "typeIdentifier": "t_enum$_FailureInfo_$9472",
+                                "typeIdentifier": "t_enum$_FailureInfo_$9471",
                                 "typeString": "enum ComptrollerErrorReporter.FailureInfo"
                               }
                             ],
-                            "id": 15179,
+                            "id": 15382,
                             "name": "fail",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 9504,
+                            "referencedDeclaration": 9503,
                             "src": "2336:4:25",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_function_internal_nonpayable$_t_enum$_Error_$9451_$_t_enum$_FailureInfo_$9472_$returns$_t_uint256_$",
+                              "typeIdentifier": "t_function_internal_nonpayable$_t_enum$_Error_$9450_$_t_enum$_FailureInfo_$9471_$returns$_t_uint256_$",
                               "typeString": "function (enum ComptrollerErrorReporter.Error,enum ComptrollerErrorReporter.FailureInfo) returns (uint256)"
                             }
                           },
-                          "id": 15184,
+                          "id": 15387,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -1892,8 +1892,8 @@
                             "typeString": "uint256"
                           }
                         },
-                        "functionReturnParameters": 15168,
-                        "id": 15185,
+                        "functionReturnParameters": 15371,
+                        "id": 15388,
                         "nodeType": "Return",
                         "src": "2329:88:25"
                       }
@@ -1902,15 +1902,15 @@
                 },
                 {
                   "assignments": [
-                    15189
+                    15392
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 15189,
+                      "id": 15392,
                       "name": "oldImplementation",
                       "nodeType": "VariableDeclaration",
-                      "scope": 15221,
+                      "scope": 15424,
                       "src": "2490:25:25",
                       "stateVariable": false,
                       "storageLocation": "default",
@@ -1919,7 +1919,7 @@
                         "typeString": "address"
                       },
                       "typeName": {
-                        "id": 15188,
+                        "id": 15391,
                         "name": "address",
                         "nodeType": "ElementaryTypeName",
                         "src": "2490:7:25",
@@ -1933,14 +1933,14 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 15191,
+                  "id": 15394,
                   "initialValue": {
                     "argumentTypes": null,
-                    "id": 15190,
+                    "id": 15393,
                     "name": "comptrollerImplementation",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 9165,
+                    "referencedDeclaration": 9164,
                     "src": "2518:25:25",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
@@ -1952,15 +1952,15 @@
                 },
                 {
                   "assignments": [
-                    15193
+                    15396
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 15193,
+                      "id": 15396,
                       "name": "oldPendingImplementation",
                       "nodeType": "VariableDeclaration",
-                      "scope": 15221,
+                      "scope": 15424,
                       "src": "2553:32:25",
                       "stateVariable": false,
                       "storageLocation": "default",
@@ -1969,7 +1969,7 @@
                         "typeString": "address"
                       },
                       "typeName": {
-                        "id": 15192,
+                        "id": 15395,
                         "name": "address",
                         "nodeType": "ElementaryTypeName",
                         "src": "2553:7:25",
@@ -1983,14 +1983,14 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 15195,
+                  "id": 15398,
                   "initialValue": {
                     "argumentTypes": null,
-                    "id": 15194,
+                    "id": 15397,
                     "name": "pendingComptrollerImplementation",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 9167,
+                    "referencedDeclaration": 9166,
                     "src": "2588:32:25",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
@@ -2003,18 +2003,18 @@
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 15198,
+                    "id": 15401,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 15196,
+                      "id": 15399,
                       "name": "comptrollerImplementation",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 9165,
+                      "referencedDeclaration": 9164,
                       "src": "2631:25:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -2025,11 +2025,11 @@
                     "operator": "=",
                     "rightHandSide": {
                       "argumentTypes": null,
-                      "id": 15197,
+                      "id": 15400,
                       "name": "pendingComptrollerImplementation",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 9167,
+                      "referencedDeclaration": 9166,
                       "src": "2659:32:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -2042,25 +2042,25 @@
                       "typeString": "address"
                     }
                   },
-                  "id": 15199,
+                  "id": 15402,
                   "nodeType": "ExpressionStatement",
                   "src": "2631:60:25"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 15204,
+                    "id": 15407,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 15200,
+                      "id": 15403,
                       "name": "pendingComptrollerImplementation",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 9167,
+                      "referencedDeclaration": 9166,
                       "src": "2702:32:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -2075,7 +2075,7 @@
                         {
                           "argumentTypes": null,
                           "hexValue": "30",
-                          "id": 15202,
+                          "id": 15405,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -2098,7 +2098,7 @@
                             "typeString": "int_const 0"
                           }
                         ],
-                        "id": 15201,
+                        "id": 15404,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -2111,7 +2111,7 @@
                         },
                         "typeName": "address"
                       },
-                      "id": 15203,
+                      "id": 15406,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -2131,7 +2131,7 @@
                       "typeString": "address"
                     }
                   },
-                  "id": 15205,
+                  "id": 15408,
                   "nodeType": "ExpressionStatement",
                   "src": "2702:45:25"
                 },
@@ -2141,11 +2141,11 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 15207,
+                        "id": 15410,
                         "name": "oldImplementation",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 15189,
+                        "referencedDeclaration": 15392,
                         "src": "2781:17:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -2154,11 +2154,11 @@
                       },
                       {
                         "argumentTypes": null,
-                        "id": 15208,
+                        "id": 15411,
                         "name": "comptrollerImplementation",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 9165,
+                        "referencedDeclaration": 9164,
                         "src": "2800:25:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -2177,18 +2177,18 @@
                           "typeString": "address"
                         }
                       ],
-                      "id": 15206,
+                      "id": 15409,
                       "name": "NewImplementation",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 15104,
+                      "referencedDeclaration": 15307,
                       "src": "2763:17:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_address_$returns$__$",
                         "typeString": "function (address,address)"
                       }
                     },
-                    "id": 15209,
+                    "id": 15412,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2202,7 +2202,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 15210,
+                  "id": 15413,
                   "nodeType": "EmitStatement",
                   "src": "2758:68:25"
                 },
@@ -2212,11 +2212,11 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 15212,
+                        "id": 15415,
                         "name": "oldPendingImplementation",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 15193,
+                        "referencedDeclaration": 15396,
                         "src": "2866:24:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -2225,11 +2225,11 @@
                       },
                       {
                         "argumentTypes": null,
-                        "id": 15213,
+                        "id": 15416,
                         "name": "pendingComptrollerImplementation",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 9167,
+                        "referencedDeclaration": 9166,
                         "src": "2892:32:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -2248,18 +2248,18 @@
                           "typeString": "address"
                         }
                       ],
-                      "id": 15211,
+                      "id": 15414,
                       "name": "NewPendingImplementation",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 15098,
+                      "referencedDeclaration": 15301,
                       "src": "2841:24:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_address_$returns$__$",
                         "typeString": "function (address,address)"
                       }
                     },
-                    "id": 15214,
+                    "id": 15417,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2273,7 +2273,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 15215,
+                  "id": 15418,
                   "nodeType": "EmitStatement",
                   "src": "2836:89:25"
                 },
@@ -2285,18 +2285,18 @@
                         "argumentTypes": null,
                         "expression": {
                           "argumentTypes": null,
-                          "id": 15217,
+                          "id": 15420,
                           "name": "Error",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 9451,
+                          "referencedDeclaration": 9450,
                           "src": "2948:5:25",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_enum$_Error_$9451_$",
+                            "typeIdentifier": "t_type$_t_enum$_Error_$9450_$",
                             "typeString": "type(enum ComptrollerErrorReporter.Error)"
                           }
                         },
-                        "id": 15218,
+                        "id": 15421,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -2306,7 +2306,7 @@
                         "referencedDeclaration": null,
                         "src": "2948:14:25",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_enum$_Error_$9451",
+                          "typeIdentifier": "t_enum$_Error_$9450",
                           "typeString": "enum ComptrollerErrorReporter.Error"
                         }
                       }
@@ -2314,11 +2314,11 @@
                     "expression": {
                       "argumentTypes": [
                         {
-                          "typeIdentifier": "t_enum$_Error_$9451",
+                          "typeIdentifier": "t_enum$_Error_$9450",
                           "typeString": "enum ComptrollerErrorReporter.Error"
                         }
                       ],
-                      "id": 15216,
+                      "id": 15419,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -2331,7 +2331,7 @@
                       },
                       "typeName": "uint"
                     },
-                    "id": 15219,
+                    "id": 15422,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": true,
@@ -2345,8 +2345,8 @@
                       "typeString": "uint256"
                     }
                   },
-                  "functionReturnParameters": 15168,
-                  "id": 15220,
+                  "functionReturnParameters": 15371,
+                  "id": 15423,
                   "nodeType": "Return",
                   "src": "2936:27:25"
                 }
@@ -2358,21 +2358,21 @@
             "modifiers": [],
             "name": "_acceptImplementation",
             "parameters": {
-              "id": 15165,
+              "id": 15368,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "2088:2:25"
             },
             "returnParameters": {
-              "id": 15168,
+              "id": 15371,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 15167,
+                  "id": 15370,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15222,
+                  "scope": 15425,
                   "src": "2107:4:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -2381,7 +2381,7 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 15166,
+                    "id": 15369,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
                     "src": "2107:4:25",
@@ -2396,18 +2396,18 @@
               ],
               "src": "2106:6:25"
             },
-            "scope": 15334,
+            "scope": 15537,
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
-            "id": 15261,
+            "id": 15464,
             "nodeType": "FunctionDefinition",
             "src": "3377:621:25",
             "nodes": [],
             "body": {
-              "id": 15260,
+              "id": 15463,
               "nodeType": "Block",
               "src": "3450:548:25",
               "nodes": [],
@@ -2419,7 +2419,7 @@
                       "typeIdentifier": "t_address",
                       "typeString": "address"
                     },
-                    "id": 15232,
+                    "id": 15435,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2428,18 +2428,18 @@
                       "argumentTypes": null,
                       "expression": {
                         "argumentTypes": null,
-                        "id": 15229,
+                        "id": 15432,
                         "name": "msg",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 15350,
+                        "referencedDeclaration": 15552,
                         "src": "3496:3:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_magic_message",
                           "typeString": "msg"
                         }
                       },
-                      "id": 15230,
+                      "id": 15433,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -2457,11 +2457,11 @@
                     "operator": "!=",
                     "rightExpression": {
                       "argumentTypes": null,
-                      "id": 15231,
+                      "id": 15434,
                       "name": "admin",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 9161,
+                      "referencedDeclaration": 9160,
                       "src": "3510:5:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -2475,11 +2475,11 @@
                     }
                   },
                   "falseBody": null,
-                  "id": 15241,
+                  "id": 15444,
                   "nodeType": "IfStatement",
                   "src": "3492:124:25",
                   "trueBody": {
-                    "id": 15240,
+                    "id": 15443,
                     "nodeType": "Block",
                     "src": "3517:99:25",
                     "statements": [
@@ -2491,18 +2491,18 @@
                               "argumentTypes": null,
                               "expression": {
                                 "argumentTypes": null,
-                                "id": 15234,
+                                "id": 15437,
                                 "name": "Error",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 9451,
+                                "referencedDeclaration": 9450,
                                 "src": "3543:5:25",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_type$_t_enum$_Error_$9451_$",
+                                  "typeIdentifier": "t_type$_t_enum$_Error_$9450_$",
                                   "typeString": "type(enum ComptrollerErrorReporter.Error)"
                                 }
                               },
-                              "id": 15235,
+                              "id": 15438,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
@@ -2512,7 +2512,7 @@
                               "referencedDeclaration": null,
                               "src": "3543:18:25",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_enum$_Error_$9451",
+                                "typeIdentifier": "t_enum$_Error_$9450",
                                 "typeString": "enum ComptrollerErrorReporter.Error"
                               }
                             },
@@ -2520,18 +2520,18 @@
                               "argumentTypes": null,
                               "expression": {
                                 "argumentTypes": null,
-                                "id": 15236,
+                                "id": 15439,
                                 "name": "FailureInfo",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 9472,
+                                "referencedDeclaration": 9471,
                                 "src": "3563:11:25",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_type$_t_enum$_FailureInfo_$9472_$",
+                                  "typeIdentifier": "t_type$_t_enum$_FailureInfo_$9471_$",
                                   "typeString": "type(enum ComptrollerErrorReporter.FailureInfo)"
                                 }
                               },
-                              "id": 15237,
+                              "id": 15440,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
@@ -2541,7 +2541,7 @@
                               "referencedDeclaration": null,
                               "src": "3563:41:25",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_enum$_FailureInfo_$9472",
+                                "typeIdentifier": "t_enum$_FailureInfo_$9471",
                                 "typeString": "enum ComptrollerErrorReporter.FailureInfo"
                               }
                             }
@@ -2549,26 +2549,26 @@
                           "expression": {
                             "argumentTypes": [
                               {
-                                "typeIdentifier": "t_enum$_Error_$9451",
+                                "typeIdentifier": "t_enum$_Error_$9450",
                                 "typeString": "enum ComptrollerErrorReporter.Error"
                               },
                               {
-                                "typeIdentifier": "t_enum$_FailureInfo_$9472",
+                                "typeIdentifier": "t_enum$_FailureInfo_$9471",
                                 "typeString": "enum ComptrollerErrorReporter.FailureInfo"
                               }
                             ],
-                            "id": 15233,
+                            "id": 15436,
                             "name": "fail",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 9504,
+                            "referencedDeclaration": 9503,
                             "src": "3538:4:25",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_function_internal_nonpayable$_t_enum$_Error_$9451_$_t_enum$_FailureInfo_$9472_$returns$_t_uint256_$",
+                              "typeIdentifier": "t_function_internal_nonpayable$_t_enum$_Error_$9450_$_t_enum$_FailureInfo_$9471_$returns$_t_uint256_$",
                               "typeString": "function (enum ComptrollerErrorReporter.Error,enum ComptrollerErrorReporter.FailureInfo) returns (uint256)"
                             }
                           },
-                          "id": 15238,
+                          "id": 15441,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -2582,8 +2582,8 @@
                             "typeString": "uint256"
                           }
                         },
-                        "functionReturnParameters": 15228,
-                        "id": 15239,
+                        "functionReturnParameters": 15431,
+                        "id": 15442,
                         "nodeType": "Return",
                         "src": "3531:74:25"
                       }
@@ -2592,15 +2592,15 @@
                 },
                 {
                   "assignments": [
-                    15243
+                    15446
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 15243,
+                      "id": 15446,
                       "name": "oldPendingAdmin",
                       "nodeType": "VariableDeclaration",
-                      "scope": 15260,
+                      "scope": 15463,
                       "src": "3686:23:25",
                       "stateVariable": false,
                       "storageLocation": "default",
@@ -2609,7 +2609,7 @@
                         "typeString": "address"
                       },
                       "typeName": {
-                        "id": 15242,
+                        "id": 15445,
                         "name": "address",
                         "nodeType": "ElementaryTypeName",
                         "src": "3686:7:25",
@@ -2623,14 +2623,14 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 15245,
+                  "id": 15448,
                   "initialValue": {
                     "argumentTypes": null,
-                    "id": 15244,
+                    "id": 15447,
                     "name": "pendingAdmin",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 9163,
+                    "referencedDeclaration": 9162,
                     "src": "3712:12:25",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
@@ -2643,18 +2643,18 @@
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 15248,
+                    "id": 15451,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 15246,
+                      "id": 15449,
                       "name": "pendingAdmin",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 9163,
+                      "referencedDeclaration": 9162,
                       "src": "3792:12:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -2665,11 +2665,11 @@
                     "operator": "=",
                     "rightHandSide": {
                       "argumentTypes": null,
-                      "id": 15247,
+                      "id": 15450,
                       "name": "newPendingAdmin",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 15224,
+                      "referencedDeclaration": 15427,
                       "src": "3807:15:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -2682,7 +2682,7 @@
                       "typeString": "address"
                     }
                   },
-                  "id": 15249,
+                  "id": 15452,
                   "nodeType": "ExpressionStatement",
                   "src": "3792:30:25"
                 },
@@ -2692,11 +2692,11 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 15251,
+                        "id": 15454,
                         "name": "oldPendingAdmin",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 15243,
+                        "referencedDeclaration": 15446,
                         "src": "3920:15:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -2705,11 +2705,11 @@
                       },
                       {
                         "argumentTypes": null,
-                        "id": 15252,
+                        "id": 15455,
                         "name": "newPendingAdmin",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 15224,
+                        "referencedDeclaration": 15427,
                         "src": "3937:15:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -2728,18 +2728,18 @@
                           "typeString": "address"
                         }
                       ],
-                      "id": 15250,
+                      "id": 15453,
                       "name": "NewPendingAdmin",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 15110,
+                      "referencedDeclaration": 15313,
                       "src": "3904:15:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_address_$returns$__$",
                         "typeString": "function (address,address)"
                       }
                     },
-                    "id": 15253,
+                    "id": 15456,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2753,7 +2753,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 15254,
+                  "id": 15457,
                   "nodeType": "EmitStatement",
                   "src": "3899:54:25"
                 },
@@ -2765,18 +2765,18 @@
                         "argumentTypes": null,
                         "expression": {
                           "argumentTypes": null,
-                          "id": 15256,
+                          "id": 15459,
                           "name": "Error",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 9451,
+                          "referencedDeclaration": 9450,
                           "src": "3976:5:25",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_enum$_Error_$9451_$",
+                            "typeIdentifier": "t_type$_t_enum$_Error_$9450_$",
                             "typeString": "type(enum ComptrollerErrorReporter.Error)"
                           }
                         },
-                        "id": 15257,
+                        "id": 15460,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -2786,7 +2786,7 @@
                         "referencedDeclaration": null,
                         "src": "3976:14:25",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_enum$_Error_$9451",
+                          "typeIdentifier": "t_enum$_Error_$9450",
                           "typeString": "enum ComptrollerErrorReporter.Error"
                         }
                       }
@@ -2794,11 +2794,11 @@
                     "expression": {
                       "argumentTypes": [
                         {
-                          "typeIdentifier": "t_enum$_Error_$9451",
+                          "typeIdentifier": "t_enum$_Error_$9450",
                           "typeString": "enum ComptrollerErrorReporter.Error"
                         }
                       ],
-                      "id": 15255,
+                      "id": 15458,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -2811,7 +2811,7 @@
                       },
                       "typeName": "uint"
                     },
-                    "id": 15258,
+                    "id": 15461,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": true,
@@ -2825,8 +2825,8 @@
                       "typeString": "uint256"
                     }
                   },
-                  "functionReturnParameters": 15228,
-                  "id": 15259,
+                  "functionReturnParameters": 15431,
+                  "id": 15462,
                   "nodeType": "Return",
                   "src": "3964:27:25"
                 }
@@ -2838,15 +2838,15 @@
             "modifiers": [],
             "name": "_setPendingAdmin",
             "parameters": {
-              "id": 15225,
+              "id": 15428,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 15224,
+                  "id": 15427,
                   "name": "newPendingAdmin",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15261,
+                  "scope": 15464,
                   "src": "3403:23:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -2855,7 +2855,7 @@
                     "typeString": "address"
                   },
                   "typeName": {
-                    "id": 15223,
+                    "id": 15426,
                     "name": "address",
                     "nodeType": "ElementaryTypeName",
                     "src": "3403:7:25",
@@ -2872,15 +2872,15 @@
               "src": "3402:25:25"
             },
             "returnParameters": {
-              "id": 15228,
+              "id": 15431,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 15227,
+                  "id": 15430,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15261,
+                  "scope": 15464,
                   "src": "3444:4:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -2889,7 +2889,7 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 15226,
+                    "id": 15429,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
                     "src": "3444:4:25",
@@ -2904,18 +2904,18 @@
               ],
               "src": "3443:6:25"
             },
-            "scope": 15334,
+            "scope": 15537,
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
-            "id": 15320,
+            "id": 15523,
             "nodeType": "FunctionDefinition",
             "src": "4269:720:25",
             "nodes": [],
             "body": {
-              "id": 15319,
+              "id": 15522,
               "nodeType": "Block",
               "src": "4315:674:25",
               "nodes": [],
@@ -2927,7 +2927,7 @@
                       "typeIdentifier": "t_bool",
                       "typeString": "bool"
                     },
-                    "id": 15276,
+                    "id": 15479,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -2938,7 +2938,7 @@
                         "typeIdentifier": "t_address",
                         "typeString": "address"
                       },
-                      "id": 15269,
+                      "id": 15472,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -2947,18 +2947,18 @@
                         "argumentTypes": null,
                         "expression": {
                           "argumentTypes": null,
-                          "id": 15266,
+                          "id": 15469,
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 15350,
+                          "referencedDeclaration": 15552,
                           "src": "4401:3:25",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
                             "typeString": "msg"
                           }
                         },
-                        "id": 15267,
+                        "id": 15470,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -2976,11 +2976,11 @@
                       "operator": "!=",
                       "rightExpression": {
                         "argumentTypes": null,
-                        "id": 15268,
+                        "id": 15471,
                         "name": "pendingAdmin",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 9163,
+                        "referencedDeclaration": 9162,
                         "src": "4415:12:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -3001,7 +3001,7 @@
                         "typeIdentifier": "t_address_payable",
                         "typeString": "address payable"
                       },
-                      "id": 15275,
+                      "id": 15478,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -3010,18 +3010,18 @@
                         "argumentTypes": null,
                         "expression": {
                           "argumentTypes": null,
-                          "id": 15270,
+                          "id": 15473,
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 15350,
+                          "referencedDeclaration": 15552,
                           "src": "4431:3:25",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
                             "typeString": "msg"
                           }
                         },
-                        "id": 15271,
+                        "id": 15474,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -3043,7 +3043,7 @@
                           {
                             "argumentTypes": null,
                             "hexValue": "30",
-                            "id": 15273,
+                            "id": 15476,
                             "isConstant": false,
                             "isLValue": false,
                             "isPure": true,
@@ -3066,7 +3066,7 @@
                               "typeString": "int_const 0"
                             }
                           ],
-                          "id": 15272,
+                          "id": 15475,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -3079,7 +3079,7 @@
                           },
                           "typeName": "address"
                         },
-                        "id": 15274,
+                        "id": 15477,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -3106,11 +3106,11 @@
                     }
                   },
                   "falseBody": null,
-                  "id": 15285,
+                  "id": 15488,
                   "nodeType": "IfStatement",
                   "src": "4397:162:25",
                   "trueBody": {
-                    "id": 15284,
+                    "id": 15487,
                     "nodeType": "Block",
                     "src": "4457:102:25",
                     "statements": [
@@ -3122,18 +3122,18 @@
                               "argumentTypes": null,
                               "expression": {
                                 "argumentTypes": null,
-                                "id": 15278,
+                                "id": 15481,
                                 "name": "Error",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 9451,
+                                "referencedDeclaration": 9450,
                                 "src": "4483:5:25",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_type$_t_enum$_Error_$9451_$",
+                                  "typeIdentifier": "t_type$_t_enum$_Error_$9450_$",
                                   "typeString": "type(enum ComptrollerErrorReporter.Error)"
                                 }
                               },
-                              "id": 15279,
+                              "id": 15482,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
@@ -3143,7 +3143,7 @@
                               "referencedDeclaration": null,
                               "src": "4483:18:25",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_enum$_Error_$9451",
+                                "typeIdentifier": "t_enum$_Error_$9450",
                                 "typeString": "enum ComptrollerErrorReporter.Error"
                               }
                             },
@@ -3151,18 +3151,18 @@
                               "argumentTypes": null,
                               "expression": {
                                 "argumentTypes": null,
-                                "id": 15280,
+                                "id": 15483,
                                 "name": "FailureInfo",
                                 "nodeType": "Identifier",
                                 "overloadedDeclarations": [],
-                                "referencedDeclaration": 9472,
+                                "referencedDeclaration": 9471,
                                 "src": "4503:11:25",
                                 "typeDescriptions": {
-                                  "typeIdentifier": "t_type$_t_enum$_FailureInfo_$9472_$",
+                                  "typeIdentifier": "t_type$_t_enum$_FailureInfo_$9471_$",
                                   "typeString": "type(enum ComptrollerErrorReporter.FailureInfo)"
                                 }
                               },
-                              "id": 15281,
+                              "id": 15484,
                               "isConstant": false,
                               "isLValue": false,
                               "isPure": true,
@@ -3172,7 +3172,7 @@
                               "referencedDeclaration": null,
                               "src": "4503:44:25",
                               "typeDescriptions": {
-                                "typeIdentifier": "t_enum$_FailureInfo_$9472",
+                                "typeIdentifier": "t_enum$_FailureInfo_$9471",
                                 "typeString": "enum ComptrollerErrorReporter.FailureInfo"
                               }
                             }
@@ -3180,26 +3180,26 @@
                           "expression": {
                             "argumentTypes": [
                               {
-                                "typeIdentifier": "t_enum$_Error_$9451",
+                                "typeIdentifier": "t_enum$_Error_$9450",
                                 "typeString": "enum ComptrollerErrorReporter.Error"
                               },
                               {
-                                "typeIdentifier": "t_enum$_FailureInfo_$9472",
+                                "typeIdentifier": "t_enum$_FailureInfo_$9471",
                                 "typeString": "enum ComptrollerErrorReporter.FailureInfo"
                               }
                             ],
-                            "id": 15277,
+                            "id": 15480,
                             "name": "fail",
                             "nodeType": "Identifier",
                             "overloadedDeclarations": [],
-                            "referencedDeclaration": 9504,
+                            "referencedDeclaration": 9503,
                             "src": "4478:4:25",
                             "typeDescriptions": {
-                              "typeIdentifier": "t_function_internal_nonpayable$_t_enum$_Error_$9451_$_t_enum$_FailureInfo_$9472_$returns$_t_uint256_$",
+                              "typeIdentifier": "t_function_internal_nonpayable$_t_enum$_Error_$9450_$_t_enum$_FailureInfo_$9471_$returns$_t_uint256_$",
                               "typeString": "function (enum ComptrollerErrorReporter.Error,enum ComptrollerErrorReporter.FailureInfo) returns (uint256)"
                             }
                           },
-                          "id": 15282,
+                          "id": 15485,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": false,
@@ -3213,8 +3213,8 @@
                             "typeString": "uint256"
                           }
                         },
-                        "functionReturnParameters": 15265,
-                        "id": 15283,
+                        "functionReturnParameters": 15468,
+                        "id": 15486,
                         "nodeType": "Return",
                         "src": "4471:77:25"
                       }
@@ -3223,15 +3223,15 @@
                 },
                 {
                   "assignments": [
-                    15287
+                    15490
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 15287,
+                      "id": 15490,
                       "name": "oldAdmin",
                       "nodeType": "VariableDeclaration",
-                      "scope": 15319,
+                      "scope": 15522,
                       "src": "4621:16:25",
                       "stateVariable": false,
                       "storageLocation": "default",
@@ -3240,7 +3240,7 @@
                         "typeString": "address"
                       },
                       "typeName": {
-                        "id": 15286,
+                        "id": 15489,
                         "name": "address",
                         "nodeType": "ElementaryTypeName",
                         "src": "4621:7:25",
@@ -3254,14 +3254,14 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 15289,
+                  "id": 15492,
                   "initialValue": {
                     "argumentTypes": null,
-                    "id": 15288,
+                    "id": 15491,
                     "name": "admin",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 9161,
+                    "referencedDeclaration": 9160,
                     "src": "4640:5:25",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
@@ -3273,15 +3273,15 @@
                 },
                 {
                   "assignments": [
-                    15291
+                    15494
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 15291,
+                      "id": 15494,
                       "name": "oldPendingAdmin",
                       "nodeType": "VariableDeclaration",
-                      "scope": 15319,
+                      "scope": 15522,
                       "src": "4655:23:25",
                       "stateVariable": false,
                       "storageLocation": "default",
@@ -3290,7 +3290,7 @@
                         "typeString": "address"
                       },
                       "typeName": {
-                        "id": 15290,
+                        "id": 15493,
                         "name": "address",
                         "nodeType": "ElementaryTypeName",
                         "src": "4655:7:25",
@@ -3304,14 +3304,14 @@
                       "visibility": "internal"
                     }
                   ],
-                  "id": 15293,
+                  "id": 15496,
                   "initialValue": {
                     "argumentTypes": null,
-                    "id": 15292,
+                    "id": 15495,
                     "name": "pendingAdmin",
                     "nodeType": "Identifier",
                     "overloadedDeclarations": [],
-                    "referencedDeclaration": 9163,
+                    "referencedDeclaration": 9162,
                     "src": "4681:12:25",
                     "typeDescriptions": {
                       "typeIdentifier": "t_address",
@@ -3324,18 +3324,18 @@
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 15296,
+                    "id": 15499,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 15294,
+                      "id": 15497,
                       "name": "admin",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 9161,
+                      "referencedDeclaration": 9160,
                       "src": "4751:5:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -3346,11 +3346,11 @@
                     "operator": "=",
                     "rightHandSide": {
                       "argumentTypes": null,
-                      "id": 15295,
+                      "id": 15498,
                       "name": "pendingAdmin",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 9163,
+                      "referencedDeclaration": 9162,
                       "src": "4759:12:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -3363,25 +3363,25 @@
                       "typeString": "address"
                     }
                   },
-                  "id": 15297,
+                  "id": 15500,
                   "nodeType": "ExpressionStatement",
                   "src": "4751:20:25"
                 },
                 {
                   "expression": {
                     "argumentTypes": null,
-                    "id": 15302,
+                    "id": 15505,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
                     "lValueRequested": false,
                     "leftHandSide": {
                       "argumentTypes": null,
-                      "id": 15298,
+                      "id": 15501,
                       "name": "pendingAdmin",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 9163,
+                      "referencedDeclaration": 9162,
                       "src": "4817:12:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_address",
@@ -3396,7 +3396,7 @@
                         {
                           "argumentTypes": null,
                           "hexValue": "30",
-                          "id": 15300,
+                          "id": 15503,
                           "isConstant": false,
                           "isLValue": false,
                           "isPure": true,
@@ -3419,7 +3419,7 @@
                             "typeString": "int_const 0"
                           }
                         ],
-                        "id": 15299,
+                        "id": 15502,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -3432,7 +3432,7 @@
                         },
                         "typeName": "address"
                       },
-                      "id": 15301,
+                      "id": 15504,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -3452,7 +3452,7 @@
                       "typeString": "address"
                     }
                   },
-                  "id": 15303,
+                  "id": 15506,
                   "nodeType": "ExpressionStatement",
                   "src": "4817:25:25"
                 },
@@ -3462,11 +3462,11 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 15305,
+                        "id": 15508,
                         "name": "oldAdmin",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 15287,
+                        "referencedDeclaration": 15490,
                         "src": "4867:8:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -3475,11 +3475,11 @@
                       },
                       {
                         "argumentTypes": null,
-                        "id": 15306,
+                        "id": 15509,
                         "name": "admin",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 9161,
+                        "referencedDeclaration": 9160,
                         "src": "4877:5:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -3498,18 +3498,18 @@
                           "typeString": "address"
                         }
                       ],
-                      "id": 15304,
+                      "id": 15507,
                       "name": "NewAdmin",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 15116,
+                      "referencedDeclaration": 15319,
                       "src": "4858:8:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_address_$returns$__$",
                         "typeString": "function (address,address)"
                       }
                     },
-                    "id": 15307,
+                    "id": 15510,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3523,7 +3523,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 15308,
+                  "id": 15511,
                   "nodeType": "EmitStatement",
                   "src": "4853:30:25"
                 },
@@ -3533,11 +3533,11 @@
                     "arguments": [
                       {
                         "argumentTypes": null,
-                        "id": 15310,
+                        "id": 15513,
                         "name": "oldPendingAdmin",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 15291,
+                        "referencedDeclaration": 15494,
                         "src": "4914:15:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -3546,11 +3546,11 @@
                       },
                       {
                         "argumentTypes": null,
-                        "id": 15311,
+                        "id": 15514,
                         "name": "pendingAdmin",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 9163,
+                        "referencedDeclaration": 9162,
                         "src": "4931:12:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
@@ -3569,18 +3569,18 @@
                           "typeString": "address"
                         }
                       ],
-                      "id": 15309,
+                      "id": 15512,
                       "name": "NewPendingAdmin",
                       "nodeType": "Identifier",
                       "overloadedDeclarations": [],
-                      "referencedDeclaration": 15110,
+                      "referencedDeclaration": 15313,
                       "src": "4898:15:25",
                       "typeDescriptions": {
                         "typeIdentifier": "t_function_event_nonpayable$_t_address_$_t_address_$returns$__$",
                         "typeString": "function (address,address)"
                       }
                     },
-                    "id": 15312,
+                    "id": 15515,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3594,7 +3594,7 @@
                       "typeString": "tuple()"
                     }
                   },
-                  "id": 15313,
+                  "id": 15516,
                   "nodeType": "EmitStatement",
                   "src": "4893:51:25"
                 },
@@ -3606,18 +3606,18 @@
                         "argumentTypes": null,
                         "expression": {
                           "argumentTypes": null,
-                          "id": 15315,
+                          "id": 15518,
                           "name": "Error",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 9451,
+                          "referencedDeclaration": 9450,
                           "src": "4967:5:25",
                           "typeDescriptions": {
-                            "typeIdentifier": "t_type$_t_enum$_Error_$9451_$",
+                            "typeIdentifier": "t_type$_t_enum$_Error_$9450_$",
                             "typeString": "type(enum ComptrollerErrorReporter.Error)"
                           }
                         },
-                        "id": 15316,
+                        "id": 15519,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": true,
@@ -3627,7 +3627,7 @@
                         "referencedDeclaration": null,
                         "src": "4967:14:25",
                         "typeDescriptions": {
-                          "typeIdentifier": "t_enum$_Error_$9451",
+                          "typeIdentifier": "t_enum$_Error_$9450",
                           "typeString": "enum ComptrollerErrorReporter.Error"
                         }
                       }
@@ -3635,11 +3635,11 @@
                     "expression": {
                       "argumentTypes": [
                         {
-                          "typeIdentifier": "t_enum$_Error_$9451",
+                          "typeIdentifier": "t_enum$_Error_$9450",
                           "typeString": "enum ComptrollerErrorReporter.Error"
                         }
                       ],
-                      "id": 15314,
+                      "id": 15517,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": true,
@@ -3652,7 +3652,7 @@
                       },
                       "typeName": "uint"
                     },
-                    "id": 15317,
+                    "id": 15520,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": true,
@@ -3666,8 +3666,8 @@
                       "typeString": "uint256"
                     }
                   },
-                  "functionReturnParameters": 15265,
-                  "id": 15318,
+                  "functionReturnParameters": 15468,
+                  "id": 15521,
                   "nodeType": "Return",
                   "src": "4955:27:25"
                 }
@@ -3679,21 +3679,21 @@
             "modifiers": [],
             "name": "_acceptAdmin",
             "parameters": {
-              "id": 15262,
+              "id": 15465,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "4290:2:25"
             },
             "returnParameters": {
-              "id": 15265,
+              "id": 15468,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 15264,
+                  "id": 15467,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 15320,
+                  "scope": 15523,
                   "src": "4309:4:25",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -3702,7 +3702,7 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 15263,
+                    "id": 15466,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
                     "src": "4309:4:25",
@@ -3717,34 +3717,34 @@
               ],
               "src": "4308:6:25"
             },
-            "scope": 15334,
+            "scope": 15537,
             "stateMutability": "nonpayable",
             "superFunction": null,
             "visibility": "public"
           },
           {
-            "id": 15333,
+            "id": 15536,
             "nodeType": "FunctionDefinition",
             "src": "5179:472:25",
             "nodes": [],
             "body": {
-              "id": 15332,
+              "id": 15535,
               "nodeType": "Block",
               "src": "5208:443:25",
               "nodes": [],
               "statements": [
                 {
                   "assignments": [
-                    15324,
+                    15527,
                     null
                   ],
                   "declarations": [
                     {
                       "constant": false,
-                      "id": 15324,
+                      "id": 15527,
                       "name": "success",
                       "nodeType": "VariableDeclaration",
-                      "scope": 15332,
+                      "scope": 15535,
                       "src": "5285:12:25",
                       "stateVariable": false,
                       "storageLocation": "default",
@@ -3753,7 +3753,7 @@
                         "typeString": "bool"
                       },
                       "typeName": {
-                        "id": 15323,
+                        "id": 15526,
                         "name": "bool",
                         "nodeType": "ElementaryTypeName",
                         "src": "5285:4:25",
@@ -3767,7 +3767,7 @@
                     },
                     null
                   ],
-                  "id": 15330,
+                  "id": 15533,
                   "initialValue": {
                     "argumentTypes": null,
                     "arguments": [
@@ -3775,18 +3775,18 @@
                         "argumentTypes": null,
                         "expression": {
                           "argumentTypes": null,
-                          "id": 15327,
+                          "id": 15530,
                           "name": "msg",
                           "nodeType": "Identifier",
                           "overloadedDeclarations": [],
-                          "referencedDeclaration": 15350,
+                          "referencedDeclaration": 15552,
                           "src": "5342:3:25",
                           "typeDescriptions": {
                             "typeIdentifier": "t_magic_message",
                             "typeString": "msg"
                           }
                         },
-                        "id": 15328,
+                        "id": 15531,
                         "isConstant": false,
                         "isLValue": false,
                         "isPure": false,
@@ -3810,18 +3810,18 @@
                       ],
                       "expression": {
                         "argumentTypes": null,
-                        "id": 15325,
+                        "id": 15528,
                         "name": "comptrollerImplementation",
                         "nodeType": "Identifier",
                         "overloadedDeclarations": [],
-                        "referencedDeclaration": 9165,
+                        "referencedDeclaration": 9164,
                         "src": "5303:25:25",
                         "typeDescriptions": {
                           "typeIdentifier": "t_address",
                           "typeString": "address"
                         }
                       },
-                      "id": 15326,
+                      "id": 15529,
                       "isConstant": false,
                       "isLValue": false,
                       "isPure": false,
@@ -3835,7 +3835,7 @@
                         "typeString": "function (bytes memory) returns (bool,bytes memory)"
                       }
                     },
-                    "id": 15329,
+                    "id": 15532,
                     "isConstant": false,
                     "isLValue": false,
                     "isPure": false,
@@ -3856,7 +3856,7 @@
                   "externalReferences": [
                     {
                       "success": {
-                        "declaration": 15324,
+                        "declaration": 15527,
                         "isOffset": false,
                         "isSlot": false,
                         "src": "5503:7:25",
@@ -3864,7 +3864,7 @@
                       }
                     }
                   ],
-                  "id": 15331,
+                  "id": 15534,
                   "nodeType": "InlineAssembly",
                   "operations": "{\n    let free_mem_ptr := mload(0x40)\n    returndatacopy(free_mem_ptr, 0, returndatasize())\n    switch success\n    case 0 {\n        revert(free_mem_ptr, returndatasize())\n    }\n    default {\n        return(free_mem_ptr, returndatasize())\n    }\n}",
                   "src": "5362:283:25"
@@ -3877,18 +3877,18 @@
             "modifiers": [],
             "name": "",
             "parameters": {
-              "id": 15321,
+              "id": 15524,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "5188:2:25"
             },
             "returnParameters": {
-              "id": 15322,
+              "id": 15525,
               "nodeType": "ParameterList",
               "parameters": [],
               "src": "5208:0:25"
             },
-            "scope": 15334,
+            "scope": 15537,
             "stateMutability": "payable",
             "superFunction": null,
             "visibility": "external"
@@ -3899,17 +3899,17 @@
             "arguments": null,
             "baseName": {
               "contractScope": null,
-              "id": 15089,
+              "id": 15292,
               "name": "UnitrollerAdminStorage",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 9168,
+              "referencedDeclaration": 9167,
               "src": "333:22:25",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_UnitrollerAdminStorage_$9168",
+                "typeIdentifier": "t_contract$_UnitrollerAdminStorage_$9167",
                 "typeString": "contract UnitrollerAdminStorage"
               }
             },
-            "id": 15090,
+            "id": 15293,
             "nodeType": "InheritanceSpecifier",
             "src": "333:22:25"
           },
@@ -3917,35 +3917,35 @@
             "arguments": null,
             "baseName": {
               "contractScope": null,
-              "id": 15091,
+              "id": 15294,
               "name": "ComptrollerErrorReporter",
               "nodeType": "UserDefinedTypeName",
-              "referencedDeclaration": 9531,
+              "referencedDeclaration": 9530,
               "src": "357:24:25",
               "typeDescriptions": {
-                "typeIdentifier": "t_contract$_ComptrollerErrorReporter_$9531",
+                "typeIdentifier": "t_contract$_ComptrollerErrorReporter_$9530",
                 "typeString": "contract ComptrollerErrorReporter"
               }
             },
-            "id": 15092,
+            "id": 15295,
             "nodeType": "InheritanceSpecifier",
             "src": "357:24:25"
           }
         ],
         "contractDependencies": [
-          9168,
-          9531
+          9167,
+          9530
         ],
         "contractKind": "contract",
         "documentation": "@title ComptrollerCore\n@dev Storage for the comptroller is at this address, while execution is delegated to the `comptrollerImplementation`.\nCTokens should reference this contract as their comptroller.",
         "fullyImplemented": true,
         "linearizedBaseContracts": [
-          15334,
-          9531,
-          9168
+          15537,
+          9530,
+          9167
         ],
         "name": "Unitroller",
-        "scope": 15335
+        "scope": 15538
       }
     ]
   },

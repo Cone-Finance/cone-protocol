@@ -51,10 +51,10 @@
     "getUnderlyingPrice(address)": "fc57d4df",
     "isPriceOracle()": "66331bba"
   },
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"constant\":true,\"inputs\":[{\"internalType\":\"contract CToken\",\"name\":\"cToken\",\"type\":\"address\"}],\"name\":\"getUnderlyingPrice\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"isPriceOracle\",\"outputs\":[{\"internalType\":\"bool\",\"name\":\"\",\"type\":\"bool\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"methods\":{\"getUnderlyingPrice(address)\":{\"params\":{\"cToken\":\"The cToken to get the underlying price of\"},\"return\":\"The underlying asset price mantissa (scaled by 1e18). Zero means the price is unavailable.\"}}},\"userdoc\":{\"methods\":{\"getUnderlyingPrice(address)\":{\"notice\":\"Get the underlying price of a cToken asset\"}}}},\"settings\":{\"compilationTarget\":{\"src/PriceOracle.sol\":\"PriceOracle\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[\":ds-test/=lib/forge-std/lib/ds-test/src/\",\":forge-std/=lib/forge-std/src/\"]},\"sources\":{\"src/CToken.sol\":{\"keccak256\":\"0xaf4d0ac6e07fb20cab027821a28ffbeaebdb2dd644c5df55dbc47f93173c0a54\",\"urls\":[\"bzz-raw://b03ff3e84eac9fef6ef99529268912b5f6ac8b45bf617e65d2c016bd668c9855\",\"dweb:/ipfs/QmRczvm13U1sjRJHrWtR8xa5L2NM8a9GgDz6AFFaoTV6fe\"]},\"src/CTokenInterfaces.sol\":{\"keccak256\":\"0x27d8a260aed42f4e63712570fb2edfdb9da6daf4cc9a842fd22b1741e9a027c8\",\"urls\":[\"bzz-raw://66da343415dd0a53079d6fd6813b676f1cc2452c76290cb2fb2275fff0779b79\",\"dweb:/ipfs/QmfUfzwvCaWaeDxPVrEtQQyX5vbJpcZTr5ARRk3oFpoEYV\"]},\"src/CarefulMath.sol\":{\"keccak256\":\"0x0647348f27e41d22555d99eebd217dee02a4d737df6accd7cce5347a7487c7de\",\"urls\":[\"bzz-raw://08882d26c11a6d240949a5afba79a74694a8b651093c05c5ae4cc359a0181c22\",\"dweb:/ipfs/QmVXb1tDswuhMRNuDLajzohdkvx2kBmqu1Rxn1BAKUfhkV\"]},\"src/ComptrollerInterface.sol\":{\"keccak256\":\"0xd4351cea4a5a1b41d7850ff4671fc57dab1b40eeaaa1248c5b408e5c0849a814\",\"urls\":[\"bzz-raw://65ab2da560dddca441d8d8490bfb37a4ee2ca45fba70eb70e13fd16d333fcf73\",\"dweb:/ipfs/QmaywNnhG8uo1k6MDM3CvXQ4MPy8p32Sv25B7rwKGo6yez\"]},\"src/EIP20Interface.sol\":{\"keccak256\":\"0xb297449a2912cf038636bf2d7536a5d4ac502e32ea3cc8b9501bd83a86dcde10\",\"urls\":[\"bzz-raw://50eb8e7916f5a06e35028908a3b585bee71d06562ba30ce1fe23f4b04789e720\",\"dweb:/ipfs/QmP6cAckKNq1p3ZEqM4RtU129E5SG99RK56JfucWhq1xHB\"]},\"src/EIP20NonStandardInterface.sol\":{\"keccak256\":\"0x6164e8bb8242373ce0cd395263a0410a396fb6a493d504df6cce4fd086b27307\",\"urls\":[\"bzz-raw://317b3d392f301843bc80b3abf4c58d7e277bfbde9f0189b5bb57e5c0a273e590\",\"dweb:/ipfs/QmbeDpRSqYUZnhkSymz5BLyD2ShE6S2nHW2TV82H9WMSb9\"]},\"src/ErrorReporter.sol\":{\"keccak256\":\"0x5179afb1071c0fd555e5c1f1d2565f72dbe1740cc3dd02f6e52037f150afc5c9\",\"urls\":[\"bzz-raw://691454eb195c6ec77409cf681ef6929c8102e65d25dd563bf2a93c04eaceeb9f\",\"dweb:/ipfs/QmegumxJuZ5yeDmJoahzGfH4EV4d1XFvmH1vNfdcdcrWJi\"]},\"src/Exponential.sol\":{\"keccak256\":\"0xbea4adddf9d0edeb774d025d9cab60e74609e15e265270617e21bcc7cf59a236\",\"urls\":[\"bzz-raw://092b00a7ca0f25e275d4d83fa9e1fe9c3a6e28d2c08bb70d69cd15aeca3c289b\",\"dweb:/ipfs/QmY6XnD4mR5LUk3W4gBZU8p1GCrAQbrqFkxTK7dx3k7T3d\"]},\"src/ExponentialNoError.sol\":{\"keccak256\":\"0x0690fa93a43e27079c70e49cec583364f694738f213e84d11278db2bb1b08291\",\"urls\":[\"bzz-raw://666a67c2be9f2348684f5309f6de47017be445f0ea7245c5ef24b673a4614c62\",\"dweb:/ipfs/QmWUxUT8Z8jpkxKzWL3yPJu17HbWbJftTczMHTZHMdv8tD\"]},\"src/InterestRateModel.sol\":{\"keccak256\":\"0xdebc1ed7d463b15934acd825f3b614afacfb30396be1dbced29e65185ad9b006\",\"urls\":[\"bzz-raw://0c06e09ef650ae27e5551f95272b2d5aaa3b5d0105773a798954db61fccd2c35\",\"dweb:/ipfs/QmYgFk6y7Dse1iozjxp6QzjCB4S6iXZVeH1iTLeDfkaCxm\"]},\"src/PriceOracle.sol\":{\"keccak256\":\"0x5d1702674c666406880fd28375c1afae6c7a9df49d45847b380700100ef23cec\",\"urls\":[\"bzz-raw://49dda2b3307617db9a27193a784fec6aa5cea5d79a597368962098e00ba50003\",\"dweb:/ipfs/Qmc5W7MNKttUBnop99YfPwZG7EikzsDrYmgMoS2Wcw69g8\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.5.17+commit.d19bba13\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"constant\":true,\"inputs\":[{\"internalType\":\"contract CToken\",\"name\":\"cToken\",\"type\":\"address\"}],\"name\":\"getUnderlyingPrice\",\"outputs\":[{\"internalType\":\"uint256\",\"name\":\"\",\"type\":\"uint256\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"},{\"constant\":true,\"inputs\":[],\"name\":\"isPriceOracle\",\"outputs\":[{\"internalType\":\"bool\",\"name\":\"\",\"type\":\"bool\"}],\"payable\":false,\"stateMutability\":\"view\",\"type\":\"function\"}],\"devdoc\":{\"methods\":{\"getUnderlyingPrice(address)\":{\"params\":{\"cToken\":\"The cToken to get the underlying price of\"},\"return\":\"The underlying asset price mantissa (scaled by 1e18). Zero means the price is unavailable.\"}}},\"userdoc\":{\"methods\":{\"getUnderlyingPrice(address)\":{\"notice\":\"Get the underlying price of a cToken asset\"}}}},\"settings\":{\"compilationTarget\":{\"src/PriceOracle.sol\":\"PriceOracle\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[\":ds-test/=lib/forge-std/lib/ds-test/src/\",\":forge-std/=lib/forge-std/src/\"]},\"sources\":{\"src/CToken.sol\":{\"keccak256\":\"0xaf4d0ac6e07fb20cab027821a28ffbeaebdb2dd644c5df55dbc47f93173c0a54\",\"urls\":[\"bzz-raw://b03ff3e84eac9fef6ef99529268912b5f6ac8b45bf617e65d2c016bd668c9855\",\"dweb:/ipfs/QmRczvm13U1sjRJHrWtR8xa5L2NM8a9GgDz6AFFaoTV6fe\"]},\"src/CTokenInterfaces.sol\":{\"keccak256\":\"0x27d8a260aed42f4e63712570fb2edfdb9da6daf4cc9a842fd22b1741e9a027c8\",\"urls\":[\"bzz-raw://66da343415dd0a53079d6fd6813b676f1cc2452c76290cb2fb2275fff0779b79\",\"dweb:/ipfs/QmfUfzwvCaWaeDxPVrEtQQyX5vbJpcZTr5ARRk3oFpoEYV\"]},\"src/CarefulMath.sol\":{\"keccak256\":\"0x0647348f27e41d22555d99eebd217dee02a4d737df6accd7cce5347a7487c7de\",\"urls\":[\"bzz-raw://08882d26c11a6d240949a5afba79a74694a8b651093c05c5ae4cc359a0181c22\",\"dweb:/ipfs/QmVXb1tDswuhMRNuDLajzohdkvx2kBmqu1Rxn1BAKUfhkV\"]},\"src/ComptrollerInterface.sol\":{\"keccak256\":\"0xd4351cea4a5a1b41d7850ff4671fc57dab1b40eeaaa1248c5b408e5c0849a814\",\"urls\":[\"bzz-raw://65ab2da560dddca441d8d8490bfb37a4ee2ca45fba70eb70e13fd16d333fcf73\",\"dweb:/ipfs/QmaywNnhG8uo1k6MDM3CvXQ4MPy8p32Sv25B7rwKGo6yez\"]},\"src/EIP20Interface.sol\":{\"keccak256\":\"0xb297449a2912cf038636bf2d7536a5d4ac502e32ea3cc8b9501bd83a86dcde10\",\"urls\":[\"bzz-raw://50eb8e7916f5a06e35028908a3b585bee71d06562ba30ce1fe23f4b04789e720\",\"dweb:/ipfs/QmP6cAckKNq1p3ZEqM4RtU129E5SG99RK56JfucWhq1xHB\"]},\"src/EIP20NonStandardInterface.sol\":{\"keccak256\":\"0x6164e8bb8242373ce0cd395263a0410a396fb6a493d504df6cce4fd086b27307\",\"urls\":[\"bzz-raw://317b3d392f301843bc80b3abf4c58d7e277bfbde9f0189b5bb57e5c0a273e590\",\"dweb:/ipfs/QmbeDpRSqYUZnhkSymz5BLyD2ShE6S2nHW2TV82H9WMSb9\"]},\"src/ErrorReporter.sol\":{\"keccak256\":\"0x5179afb1071c0fd555e5c1f1d2565f72dbe1740cc3dd02f6e52037f150afc5c9\",\"urls\":[\"bzz-raw://691454eb195c6ec77409cf681ef6929c8102e65d25dd563bf2a93c04eaceeb9f\",\"dweb:/ipfs/QmegumxJuZ5yeDmJoahzGfH4EV4d1XFvmH1vNfdcdcrWJi\"]},\"src/Exponential.sol\":{\"keccak256\":\"0xbea4adddf9d0edeb774d025d9cab60e74609e15e265270617e21bcc7cf59a236\",\"urls\":[\"bzz-raw://092b00a7ca0f25e275d4d83fa9e1fe9c3a6e28d2c08bb70d69cd15aeca3c289b\",\"dweb:/ipfs/QmY6XnD4mR5LUk3W4gBZU8p1GCrAQbrqFkxTK7dx3k7T3d\"]},\"src/ExponentialNoError.sol\":{\"keccak256\":\"0x0690fa93a43e27079c70e49cec583364f694738f213e84d11278db2bb1b08291\",\"urls\":[\"bzz-raw://666a67c2be9f2348684f5309f6de47017be445f0ea7245c5ef24b673a4614c62\",\"dweb:/ipfs/QmWUxUT8Z8jpkxKzWL3yPJu17HbWbJftTczMHTZHMdv8tD\"]},\"src/InterestRateModel.sol\":{\"keccak256\":\"0xdebc1ed7d463b15934acd825f3b614afacfb30396be1dbced29e65185ad9b006\",\"urls\":[\"bzz-raw://0c06e09ef650ae27e5551f95272b2d5aaa3b5d0105773a798954db61fccd2c35\",\"dweb:/ipfs/QmYgFk6y7Dse1iozjxp6QzjCB4S6iXZVeH1iTLeDfkaCxm\"]},\"src/PriceOracle.sol\":{\"keccak256\":\"0x5d1702674c666406880fd28375c1afae6c7a9df49d45847b380700100ef23cec\",\"urls\":[\"bzz-raw://49dda2b3307617db9a27193a784fec6aa5cea5d79a597368962098e00ba50003\",\"dweb:/ipfs/Qmc5W7MNKttUBnop99YfPwZG7EikzsDrYmgMoS2Wcw69g8\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
-      "version": "0.5.16+commit.9c3226ce"
+      "version": "0.5.17+commit.d19bba13"
     },
     "language": "Solidity",
     "output": {
@@ -218,17 +218,17 @@
   },
   "ast": {
     "absolutePath": "src/PriceOracle.sol",
-    "id": 14381,
+    "id": 14584,
     "exportedSymbols": {
       "PriceOracle": [
-        14380
+        14583
       ]
     },
     "nodeType": "SourceUnit",
     "src": "0:534:22",
     "nodes": [
       {
-        "id": 14368,
+        "id": 14571,
         "nodeType": "PragmaDirective",
         "src": "0:24:22",
         "nodes": [],
@@ -240,30 +240,30 @@
         ]
       },
       {
-        "id": 14369,
+        "id": 14572,
         "nodeType": "ImportDirective",
         "src": "26:22:22",
         "nodes": [],
         "absolutePath": "src/CToken.sol",
         "file": "./CToken.sol",
-        "scope": 14381,
-        "sourceUnit": 4499,
+        "scope": 14584,
+        "sourceUnit": 4498,
         "symbolAliases": [],
         "unitAlias": ""
       },
       {
-        "id": 14380,
+        "id": 14583,
         "nodeType": "ContractDefinition",
         "src": "50:484:22",
         "nodes": [
           {
-            "id": 14372,
+            "id": 14575,
             "nodeType": "VariableDeclaration",
             "src": "156:41:22",
             "nodes": [],
             "constant": true,
             "name": "isPriceOracle",
-            "scope": 14380,
+            "scope": 14583,
             "stateVariable": true,
             "storageLocation": "default",
             "typeDescriptions": {
@@ -271,7 +271,7 @@
               "typeString": "bool"
             },
             "typeName": {
-              "id": 14370,
+              "id": 14573,
               "name": "bool",
               "nodeType": "ElementaryTypeName",
               "src": "156:4:22",
@@ -283,7 +283,7 @@
             "value": {
               "argumentTypes": null,
               "hexValue": "74727565",
-              "id": 14371,
+              "id": 14574,
               "isConstant": false,
               "isLValue": false,
               "isPure": true,
@@ -301,7 +301,7 @@
             "visibility": "public"
           },
           {
-            "id": 14379,
+            "id": 14582,
             "nodeType": "FunctionDefinition",
             "src": "460:72:22",
             "nodes": [],
@@ -311,31 +311,31 @@
             "modifiers": [],
             "name": "getUnderlyingPrice",
             "parameters": {
-              "id": 14375,
+              "id": 14578,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 14374,
+                  "id": 14577,
                   "name": "cToken",
                   "nodeType": "VariableDeclaration",
-                  "scope": 14379,
+                  "scope": 14582,
                   "src": "488:13:22",
                   "stateVariable": false,
                   "storageLocation": "default",
                   "typeDescriptions": {
-                    "typeIdentifier": "t_contract$_CToken_$4498",
+                    "typeIdentifier": "t_contract$_CToken_$4497",
                     "typeString": "contract CToken"
                   },
                   "typeName": {
                     "contractScope": null,
-                    "id": 14373,
+                    "id": 14576,
                     "name": "CToken",
                     "nodeType": "UserDefinedTypeName",
-                    "referencedDeclaration": 4498,
+                    "referencedDeclaration": 4497,
                     "src": "488:6:22",
                     "typeDescriptions": {
-                      "typeIdentifier": "t_contract$_CToken_$4498",
+                      "typeIdentifier": "t_contract$_CToken_$4497",
                       "typeString": "contract CToken"
                     }
                   },
@@ -346,15 +346,15 @@
               "src": "487:15:22"
             },
             "returnParameters": {
-              "id": 14378,
+              "id": 14581,
               "nodeType": "ParameterList",
               "parameters": [
                 {
                   "constant": false,
-                  "id": 14377,
+                  "id": 14580,
                   "name": "",
                   "nodeType": "VariableDeclaration",
-                  "scope": 14379,
+                  "scope": 14582,
                   "src": "526:4:22",
                   "stateVariable": false,
                   "storageLocation": "default",
@@ -363,7 +363,7 @@
                     "typeString": "uint256"
                   },
                   "typeName": {
-                    "id": 14376,
+                    "id": 14579,
                     "name": "uint",
                     "nodeType": "ElementaryTypeName",
                     "src": "526:4:22",
@@ -378,7 +378,7 @@
               ],
               "src": "525:6:22"
             },
-            "scope": 14380,
+            "scope": 14583,
             "stateMutability": "view",
             "superFunction": null,
             "visibility": "external"
@@ -390,10 +390,10 @@
         "documentation": null,
         "fullyImplemented": false,
         "linearizedBaseContracts": [
-          14380
+          14583
         ],
         "name": "PriceOracle",
-        "scope": 14381
+        "scope": 14584
       }
     ]
   },

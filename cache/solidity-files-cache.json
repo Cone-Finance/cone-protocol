@@ -12,7 +12,7 @@
   },
   "files": {
     "lib/forge-std/src/Base.sol": {
-      "lastModificationDate": 1694300137954,
+      "lastModificationDate": 1694804367014,
       "contentHash": "ee13c050b1914464f1d3f90cde90204b",
       "sourceName": "lib/forge-std/src/Base.sol",
       "solcConfig": {
@@ -51,18 +51,18 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "CommonBase": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "Base.sol/CommonBase.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Base.sol/CommonBase.json"
         },
         "ScriptBase": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "Base.sol/ScriptBase.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Base.sol/ScriptBase.json"
         },
         "TestBase": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "Base.sol/TestBase.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Base.sol/TestBase.json"
         }
       }
     },
     "lib/forge-std/src/Script.sol": {
-      "lastModificationDate": 1694300137954,
+      "lastModificationDate": 1694804367014,
       "contentHash": "ba325c778a7da8a21c2136aa32763c14",
       "sourceName": "lib/forge-std/src/Script.sol",
       "solcConfig": {
@@ -112,12 +112,12 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Script": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "Script.sol/Script.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Script.sol/Script.json"
         }
       }
     },
     "lib/forge-std/src/StdChains.sol": {
-      "lastModificationDate": 1694300137954,
+      "lastModificationDate": 1694804367014,
       "contentHash": "b0324b2e5a11948f852032aa293b3a05",
       "sourceName": "lib/forge-std/src/StdChains.sol",
       "solcConfig": {
@@ -155,12 +155,12 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdChains": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "StdChains.sol/StdChains.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdChains.sol/StdChains.json"
         }
       }
     },
     "lib/forge-std/src/StdCheats.sol": {
-      "lastModificationDate": 1694300137955,
+      "lastModificationDate": 1694804367014,
       "contentHash": "d984e2c76dae07bac1e292af2a5d4fd1",
       "sourceName": "lib/forge-std/src/StdCheats.sol",
       "solcConfig": {
@@ -200,15 +200,15 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdCheats": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "StdCheats.sol/StdCheats.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdCheats.sol/StdCheats.json"
         },
         "StdCheatsSafe": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "StdCheats.sol/StdCheatsSafe.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.json"
         }
       }
     },
     "lib/forge-std/src/StdJson.sol": {
-      "lastModificationDate": 1694300139496,
+      "lastModificationDate": 1694804367015,
       "contentHash": "b5de4d3e9eda3333019b0e407ec2a1ac",
       "sourceName": "lib/forge-std/src/StdJson.sol",
       "solcConfig": {
@@ -246,12 +246,12 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "stdJson": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "StdJson.sol/stdJson.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdJson.sol/stdJson.json"
         }
       }
     },
     "lib/forge-std/src/StdMath.sol": {
-      "lastModificationDate": 1694300137955,
+      "lastModificationDate": 1694804367015,
       "contentHash": "9da8f453eba6bb98f3d75bc6822bfb29",
       "sourceName": "lib/forge-std/src/StdMath.sol",
       "solcConfig": {
@@ -287,12 +287,12 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdMath": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "StdMath.sol/stdMath.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdMath.sol/stdMath.json"
         }
       }
     },
     "lib/forge-std/src/StdStorage.sol": {
-      "lastModificationDate": 1694300137955,
+      "lastModificationDate": 1694804367015,
       "contentHash": "abd6f3379e6e2a7979b18abc21aea0c1",
       "sourceName": "lib/forge-std/src/StdStorage.sol",
       "solcConfig": {
@@ -330,15 +330,15 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdStorage": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "StdStorage.sol/stdStorage.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdStorage.sol/stdStorage.json"
         },
         "stdStorageSafe": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "StdStorage.sol/stdStorageSafe.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.json"
         }
       }
     },
     "lib/forge-std/src/StdStyle.sol": {
-      "lastModificationDate": 1694300137956,
+      "lastModificationDate": 1694804367015,
       "contentHash": "6281165a12aa639705c691fccefd855e",
       "sourceName": "lib/forge-std/src/StdStyle.sol",
       "solcConfig": {
@@ -376,12 +376,12 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "StdStyle": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "StdStyle.sol/StdStyle.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdStyle.sol/StdStyle.json"
         }
       }
     },
     "lib/forge-std/src/StdUtils.sol": {
-      "lastModificationDate": 1694300137956,
+      "lastModificationDate": 1694804367015,
       "contentHash": "3ce83748fd76644688f916c9cced545b",
       "sourceName": "lib/forge-std/src/StdUtils.sol",
       "solcConfig": {
@@ -420,12 +420,12 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdUtils": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "StdUtils.sol/StdUtils.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdUtils.sol/StdUtils.json"
         }
       }
     },
     "lib/forge-std/src/Vm.sol": {
-      "lastModificationDate": 1694300139496,
+      "lastModificationDate": 1694804367015,
       "contentHash": "99c76f92020cc3d67eca52e07eea5d77",
       "sourceName": "lib/forge-std/src/Vm.sol",
       "solcConfig": {
@@ -461,15 +461,15 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Vm": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "Vm.sol/Vm.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Vm.sol/Vm.json"
         },
         "VmSafe": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "Vm.sol/VmSafe.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Vm.sol/VmSafe.json"
         }
       }
     },
     "lib/forge-std/src/console.sol": {
-      "lastModificationDate": 1694300137957,
+      "lastModificationDate": 1694804367015,
       "contentHash": "100b8a33b917da1147740d7ab8b0ded3",
       "sourceName": "lib/forge-std/src/console.sol",
       "solcConfig": {
@@ -505,12 +505,12 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "console.sol/console.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "console.sol/console.json"
         }
       }
     },
     "lib/forge-std/src/console2.sol": {
-      "lastModificationDate": 1694300137957,
+      "lastModificationDate": 1694804367016,
       "contentHash": "491ca717c1915995e78cc361485a3067",
       "sourceName": "lib/forge-std/src/console2.sol",
       "solcConfig": {
@@ -546,12 +546,12 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console2": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "console2.sol/console2.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "console2.sol/console2.json"
         }
       }
     },
     "lib/forge-std/src/interfaces/IMulticall3.sol": {
-      "lastModificationDate": 1694300137958,
+      "lastModificationDate": 1694804367016,
       "contentHash": "7b131ca1ca32ef6378b7b9ad5488b901",
       "sourceName": "lib/forge-std/src/interfaces/IMulticall3.sol",
       "solcConfig": {
@@ -587,12 +587,12 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "IMulticall3": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "IMulticall3.sol/IMulticall3.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IMulticall3.sol/IMulticall3.json"
         }
       }
     },
     "lib/forge-std/src/safeconsole.sol": {
-      "lastModificationDate": 1694300137959,
+      "lastModificationDate": 1694804367016,
       "contentHash": "ac3b1bf5a444db5db3656021830258a8",
       "sourceName": "lib/forge-std/src/safeconsole.sol",
       "solcConfig": {
@@ -628,13 +628,13 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "safeconsole": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "safeconsole.sol/safeconsole.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "safeconsole.sol/safeconsole.json"
         }
       }
     },
     "script/BaseGoerliCaster.s.sol": {
-      "lastModificationDate": 1694395686394,
-      "contentHash": "a1da00769b1e110252d006ecb90a1d8f",
+      "lastModificationDate": 1694803973475,
+      "contentHash": "49af932220be059de38793337caa247b",
       "sourceName": "script/BaseGoerliCaster.s.sol",
       "solcConfig": {
         "settings": {
@@ -685,27 +685,27 @@
       "versionRequirement": "^0.8.13",
       "artifacts": {
         "BaseGoerliCaster": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "BaseGoerliCaster.s.sol/BaseGoerliCaster.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "BaseGoerliCaster.s.sol/BaseGoerliCaster.json"
         },
         "ICToken": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "BaseGoerliCaster.s.sol/ICToken.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "BaseGoerliCaster.s.sol/ICToken.json"
         },
         "IComptroller": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "BaseGoerliCaster.s.sol/IComptroller.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "BaseGoerliCaster.s.sol/IComptroller.json"
         },
         "IErc20": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "BaseGoerliCaster.s.sol/IErc20.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "BaseGoerliCaster.s.sol/IErc20.json"
         },
         "IOracle": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "BaseGoerliCaster.s.sol/IOracle.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "BaseGoerliCaster.s.sol/IOracle.json"
         },
         "IUnitroller": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "BaseGoerliCaster.s.sol/IUnitroller.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "BaseGoerliCaster.s.sol/IUnitroller.json"
         }
       }
     },
     "src/BaseJumpRateModelV2.sol": {
-      "lastModificationDate": 1694304346936,
+      "lastModificationDate": 1694803973475,
       "contentHash": "39ca1a80ae4180c738d758bbfcea63ae",
       "sourceName": "src/BaseJumpRateModelV2.sol",
       "solcConfig": {
@@ -743,12 +743,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "BaseJumpRateModelV2": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "BaseJumpRateModelV2.sol/BaseJumpRateModelV2.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "BaseJumpRateModelV2.sol/BaseJumpRateModelV2.json"
         }
       }
     },
     "src/CErc20.sol": {
-      "lastModificationDate": 1694304354971,
+      "lastModificationDate": 1694803973475,
       "contentHash": "e6b3701e4aa9a2b91d27de38b74ea5e3",
       "sourceName": "src/CErc20.sol",
       "solcConfig": {
@@ -795,12 +795,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "CErc20": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CErc20.sol/CErc20.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CErc20.sol/CErc20.json"
         }
       }
     },
     "src/CErc20Immutable.sol": {
-      "lastModificationDate": 1694304877585,
+      "lastModificationDate": 1694803973475,
       "contentHash": "2e65322360f8240d2b95aa2009bb6bd8",
       "sourceName": "src/CErc20Immutable.sol",
       "solcConfig": {
@@ -848,12 +848,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "CErc20Immutable": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CErc20Immutable.sol/CErc20Immutable.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CErc20Immutable.sol/CErc20Immutable.json"
         }
       }
     },
     "src/CEther.sol": {
-      "lastModificationDate": 1694304404741,
+      "lastModificationDate": 1694803973476,
       "contentHash": "d3681ed51d08f8f9584c1048524c6fb6",
       "sourceName": "src/CEther.sol",
       "solcConfig": {
@@ -900,12 +900,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "CEther": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CEther.sol/CEther.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CEther.sol/CEther.json"
         }
       }
     },
     "src/CToken.sol": {
-      "lastModificationDate": 1694304568897,
+      "lastModificationDate": 1694803973476,
       "contentHash": "745006df24da2b9568fec6d82e735d9a",
       "sourceName": "src/CToken.sol",
       "solcConfig": {
@@ -951,12 +951,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "CToken": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CToken.sol/CToken.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CToken.sol/CToken.json"
         }
       }
     },
     "src/CTokenInterfaces.sol": {
-      "lastModificationDate": 1694305282505,
+      "lastModificationDate": 1694803973476,
       "contentHash": "644a449edc3b101215132de975540652",
       "sourceName": "src/CTokenInterfaces.sol",
       "solcConfig": {
@@ -995,30 +995,30 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "CDelegateInterface": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CDelegateInterface.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CTokenInterfaces.sol/CDelegateInterface.json"
         },
         "CDelegationStorage": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CDelegationStorage.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CTokenInterfaces.sol/CDelegationStorage.json"
         },
         "CDelegatorInterface": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CDelegatorInterface.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CTokenInterfaces.sol/CDelegatorInterface.json"
         },
         "CErc20Interface": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CErc20Interface.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CTokenInterfaces.sol/CErc20Interface.json"
         },
         "CErc20Storage": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CErc20Storage.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CTokenInterfaces.sol/CErc20Storage.json"
         },
         "CTokenInterface": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CTokenInterface.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CTokenInterfaces.sol/CTokenInterface.json"
         },
         "CTokenStorage": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CTokenInterfaces.sol/CTokenStorage.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CTokenInterfaces.sol/CTokenStorage.json"
         }
       }
     },
     "src/CarefulMath.sol": {
-      "lastModificationDate": 1694305068286,
+      "lastModificationDate": 1694803973476,
       "contentHash": "b1f19e9f4ff15ac6673cd0d4ce242b01",
       "sourceName": "src/CarefulMath.sol",
       "solcConfig": {
@@ -1054,12 +1054,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "CarefulMath": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CarefulMath.sol/CarefulMath.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CarefulMath.sol/CarefulMath.json"
         }
       }
     },
     "src/ComptrollerG6.sol": {
-      "lastModificationDate": 1694304502560,
+      "lastModificationDate": 1694803973476,
       "contentHash": "71672484e3b9e66e26cdd4d5ced37b2e",
       "sourceName": "src/ComptrollerG6.sol",
       "solcConfig": {
@@ -1110,12 +1110,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "ComptrollerG6": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerG6.sol/ComptrollerG6.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "ComptrollerG6.sol/ComptrollerG6.json"
         }
       }
     },
     "src/ComptrollerInterface.sol": {
-      "lastModificationDate": 1694304489701,
+      "lastModificationDate": 1694803973476,
       "contentHash": "8511d1e04b509835e2e0ab0f63816a5b",
       "sourceName": "src/ComptrollerInterface.sol",
       "solcConfig": {
@@ -1151,12 +1151,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "ComptrollerInterface": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerInterface.sol/ComptrollerInterface.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "ComptrollerInterface.sol/ComptrollerInterface.json"
         }
       }
     },
     "src/ComptrollerStorage.sol": {
-      "lastModificationDate": 1694304538223,
+      "lastModificationDate": 1694803973476,
       "contentHash": "6c303bb5fa808191a00553e6d04e8884",
       "sourceName": "src/ComptrollerStorage.sol",
       "solcConfig": {
@@ -1204,27 +1204,27 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "ComptrollerV1Storage": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerStorage.sol/ComptrollerV1Storage.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "ComptrollerStorage.sol/ComptrollerV1Storage.json"
         },
         "ComptrollerV2Storage": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerStorage.sol/ComptrollerV2Storage.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "ComptrollerStorage.sol/ComptrollerV2Storage.json"
         },
         "ComptrollerV3Storage": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerStorage.sol/ComptrollerV3Storage.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "ComptrollerStorage.sol/ComptrollerV3Storage.json"
         },
         "ComptrollerV4Storage": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerStorage.sol/ComptrollerV4Storage.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "ComptrollerStorage.sol/ComptrollerV4Storage.json"
         },
         "ComptrollerV5Storage": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerStorage.sol/ComptrollerV5Storage.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "ComptrollerStorage.sol/ComptrollerV5Storage.json"
         },
         "UnitrollerAdminStorage": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "ComptrollerStorage.sol/UnitrollerAdminStorage.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "ComptrollerStorage.sol/UnitrollerAdminStorage.json"
         }
       }
     },
     "src/EIP20Interface.sol": {
-      "lastModificationDate": 1694304683553,
+      "lastModificationDate": 1694803973476,
       "contentHash": "4e3ee4a4a002a57d012cc415a473648e",
       "sourceName": "src/EIP20Interface.sol",
       "solcConfig": {
@@ -1260,12 +1260,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "EIP20Interface": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "EIP20Interface.sol/EIP20Interface.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "EIP20Interface.sol/EIP20Interface.json"
         }
       }
     },
     "src/EIP20NonStandardInterface.sol": {
-      "lastModificationDate": 1694304700872,
+      "lastModificationDate": 1694803973476,
       "contentHash": "2b5e5a29a4dcf04c50396302e6bbaec3",
       "sourceName": "src/EIP20NonStandardInterface.sol",
       "solcConfig": {
@@ -1301,12 +1301,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "EIP20NonStandardInterface": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "EIP20NonStandardInterface.sol/EIP20NonStandardInterface.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "EIP20NonStandardInterface.sol/EIP20NonStandardInterface.json"
         }
       }
     },
     "src/ErrorReporter.sol": {
-      "lastModificationDate": 1694304707723,
+      "lastModificationDate": 1694803973476,
       "contentHash": "4360952ef4d39b9c916546d941dca6d1",
       "sourceName": "src/ErrorReporter.sol",
       "solcConfig": {
@@ -1342,15 +1342,15 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "ComptrollerErrorReporter": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "ErrorReporter.sol/ComptrollerErrorReporter.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "ErrorReporter.sol/ComptrollerErrorReporter.json"
         },
         "TokenErrorReporter": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "ErrorReporter.sol/TokenErrorReporter.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "ErrorReporter.sol/TokenErrorReporter.json"
         }
       }
     },
     "src/Exponential.sol": {
-      "lastModificationDate": 1694305029764,
+      "lastModificationDate": 1694803973476,
       "contentHash": "cea0129ddeb7f4a366f38088bb09f0eb",
       "sourceName": "src/Exponential.sol",
       "solcConfig": {
@@ -1389,12 +1389,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "Exponential": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "Exponential.sol/Exponential.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "Exponential.sol/Exponential.json"
         }
       }
     },
     "src/ExponentialNoError.sol": {
-      "lastModificationDate": 1694304721648,
+      "lastModificationDate": 1694803973476,
       "contentHash": "4a7882ab111aa97010cf03aaf6963b57",
       "sourceName": "src/ExponentialNoError.sol",
       "solcConfig": {
@@ -1430,12 +1430,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "ExponentialNoError": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "ExponentialNoError.sol/ExponentialNoError.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "ExponentialNoError.sol/ExponentialNoError.json"
         }
       }
     },
     "src/Governance/Comp.sol": {
-      "lastModificationDate": 1694302661643,
+      "lastModificationDate": 1694803973476,
       "contentHash": "4ee834e15786d6401b50eb8e7f96ee61",
       "sourceName": "src/Governance/Comp.sol",
       "solcConfig": {
@@ -1471,12 +1471,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "Comp": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "Comp.sol/Comp.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "Comp.sol/Comp.json"
         }
       }
     },
     "src/Governance/GovernorAlpha.sol": {
-      "lastModificationDate": 1694302700121,
+      "lastModificationDate": 1694803973476,
       "contentHash": "857f094609e8af0a6d01cc79c947329f",
       "sourceName": "src/Governance/GovernorAlpha.sol",
       "solcConfig": {
@@ -1512,18 +1512,18 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "CompInterface": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "GovernorAlpha.sol/CompInterface.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "GovernorAlpha.sol/CompInterface.json"
         },
         "GovernorAlpha": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "GovernorAlpha.sol/GovernorAlpha.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "GovernorAlpha.sol/GovernorAlpha.json"
         },
         "TimelockInterface": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "GovernorAlpha.sol/TimelockInterface.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "GovernorAlpha.sol/TimelockInterface.json"
         }
       }
     },
     "src/InterestRateModel.sol": {
-      "lastModificationDate": 1694304758056,
+      "lastModificationDate": 1694803973476,
       "contentHash": "a3cf7e298193963b74f1376975c54a17",
       "sourceName": "src/InterestRateModel.sol",
       "solcConfig": {
@@ -1559,12 +1559,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "InterestRateModel": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "InterestRateModel.sol/InterestRateModel.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "InterestRateModel.sol/InterestRateModel.json"
         }
       }
     },
     "src/JumpRateModelV2.sol": {
-      "lastModificationDate": 1694304772454,
+      "lastModificationDate": 1694803973476,
       "contentHash": "00ff2d3aae3f045c7c791a63157c242d",
       "sourceName": "src/JumpRateModelV2.sol",
       "solcConfig": {
@@ -1604,12 +1604,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "JumpRateModelV2": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "JumpRateModelV2.sol/JumpRateModelV2.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "JumpRateModelV2.sol/JumpRateModelV2.json"
         }
       }
     },
     "src/Lens/CompoundLens.sol": {
-      "lastModificationDate": 1694304306349,
+      "lastModificationDate": 1694803973477,
       "contentHash": "b77a1c89c4b272358db1496fdd546023",
       "sourceName": "src/Lens/CompoundLens.sol",
       "solcConfig": {
@@ -1660,15 +1660,15 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "CompoundLens": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CompoundLens.sol/CompoundLens.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CompoundLens.sol/CompoundLens.json"
         },
         "ComptrollerLensInterface": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "CompoundLens.sol/ComptrollerLensInterface.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "CompoundLens.sol/ComptrollerLensInterface.json"
         }
       }
     },
     "src/Maximillion.sol": {
-      "lastModificationDate": 1694304781035,
+      "lastModificationDate": 1694803973477,
       "contentHash": "a494167b34ec6077a5b1890d5988b3c2",
       "sourceName": "src/Maximillion.sol",
       "solcConfig": {
@@ -1716,12 +1716,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "Maximillion": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "Maximillion.sol/Maximillion.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "Maximillion.sol/Maximillion.json"
         }
       }
     },
     "src/Mocks/Erc20Mock.sol": {
-      "lastModificationDate": 1694395113483,
+      "lastModificationDate": 1694803973477,
       "contentHash": "836de258c6fb3fa7c486efa5295a5262",
       "sourceName": "src/Mocks/Erc20Mock.sol",
       "solcConfig": {
@@ -1757,13 +1757,13 @@
       "versionRequirement": "^0.8.13",
       "artifacts": {
         "Erc20Mock": {
-          "0.8.21+commit.d9974bed.Linux.gcc": "Erc20Mock.sol/Erc20Mock.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Erc20Mock.sol/Erc20Mock.json"
         }
       }
     },
     "src/Oracle.sol": {
-      "lastModificationDate": 1694288419131,
-      "contentHash": "7559dc7c0bcf2dc32a0f26578c13a24a",
+      "lastModificationDate": 1694803973477,
+      "contentHash": "2759c1ece5b29d91bf0d978ec809aa31",
       "sourceName": "src/Oracle.sol",
       "solcConfig": {
         "settings": {
@@ -1810,15 +1810,15 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "Feed": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "Oracle.sol/Feed.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "Oracle.sol/Feed.json"
         },
         "Oracle": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "Oracle.sol/Oracle.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "Oracle.sol/Oracle.json"
         }
       }
     },
     "src/PriceOracle.sol": {
-      "lastModificationDate": 1694304787889,
+      "lastModificationDate": 1694803973477,
       "contentHash": "1719760461cc8f00a2a63ff0f7e255ec",
       "sourceName": "src/PriceOracle.sol",
       "solcConfig": {
@@ -1865,12 +1865,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "PriceOracle": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "PriceOracle.sol/PriceOracle.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "PriceOracle.sol/PriceOracle.json"
         }
       }
     },
     "src/SafeMath.sol": {
-      "lastModificationDate": 1694304796475,
+      "lastModificationDate": 1694803973477,
       "contentHash": "cea035c339007f3f8e5c97f91976a6ee",
       "sourceName": "src/SafeMath.sol",
       "solcConfig": {
@@ -1906,12 +1906,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "SafeMath": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "SafeMath.sol/SafeMath.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "SafeMath.sol/SafeMath.json"
         }
       }
     },
     "src/Timelock.sol": {
-      "lastModificationDate": 1694304947719,
+      "lastModificationDate": 1694803973477,
       "contentHash": "32f77c167fae6e68ce3869f94a20775f",
       "sourceName": "src/Timelock.sol",
       "solcConfig": {
@@ -1949,12 +1949,12 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "Timelock": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "Timelock.sol/Timelock.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "Timelock.sol/Timelock.json"
         }
       }
     },
     "src/Unitroller.sol": {
-      "lastModificationDate": 1694304842448,
+      "lastModificationDate": 1694803973477,
       "contentHash": "927fd2ede91d7cef2f1c23d650bada64",
       "sourceName": "src/Unitroller.sol",
       "solcConfig": {
@@ -2003,7 +2003,7 @@
       "versionRequirement": "^0.5.16",
       "artifacts": {
         "Unitroller": {
-          "0.5.16+commit.9c3226ce.Linux.gcc": "Unitroller.sol/Unitroller.json"
+          "0.5.17+commit.d19bba13.Darwin.appleclang": "Unitroller.sol/Unitroller.json"
         }
       }
     }
